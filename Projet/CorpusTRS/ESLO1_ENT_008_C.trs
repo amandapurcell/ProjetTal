@@ -1,0 +1,6357 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="houdayer/panot" audio_filename="008" version="17" version_date="101129">
+<Topics>
+<Topic id="to1" desc="QP1"/>
+<Topic id="to2" desc="QP3"/>
+<Topic id="to3" desc="QP4"/>
+<Topic id="to4" desc="Travail/Tronc commun"/>
+<Topic id="to5" desc="T1"/>
+<Topic id="to6" desc="T2"/>
+<Topic id="to7" desc="T3"/>
+<Topic id="to8" desc="T4"/>
+<Topic id="to9" desc="T5"/>
+<Topic id="to10" desc="Loisirs/Tronc commun"/>
+<Topic id="to11" desc="L1"/>
+<Topic id="to12" desc="L2"/>
+<Topic id="to13" desc="L3"/>
+<Topic id="to14" desc="L4"/>
+<Topic id="to15" desc="Enseignement/Tronc commun"/>
+<Topic id="to16" desc="E1"/>
+<Topic id="to17" desc="E2"/>
+<Topic id="to18" desc="E3"/>
+<Topic id="to19" desc="E4"/>
+<Topic id="to20" desc="E5"/>
+<Topic id="to21" desc="E6"/>
+<Topic id="to22" desc="Politique/Classe-Tronc commun"/>
+<Topic id="to23" desc="P1"/>
+<Topic id="to24" desc="P4"/>
+<Topic id="to25" desc="P9"/>
+<Topic id="to26" desc="P10"/>
+<Topic id="to27" desc="P11"/>
+<Topic id="to28" desc="P12"/>
+<Topic id="to29" desc="T7"/>
+<Topic id="to30" desc="T8"/>
+<Topic id="to31" desc="Travail/Branche"/>
+<Topic id="to32" desc="T9"/>
+<Topic id="to33" desc="T10"/>
+<Topic id="to34" desc="T11"/>
+<Topic id="to35" desc="T12"/>
+<Topic id="to36" desc="T13"/>
+<Topic id="to37" desc="T14"/>
+<Topic id="to38" desc="T15"/>
+<Topic id="to39" desc="T17"/>
+<Topic id="to40" desc="T18"/>
+<Topic id="to41" desc="Branche/Langue et Culture"/>
+<Topic id="to42" desc="BLC1"/>
+<Topic id="to43" desc="BLC2"/>
+<Topic id="to44" desc="BLC3"/>
+<Topic id="to45" desc="BLC4"/>
+<Topic id="to46" desc="BLC5"/>
+<Topic id="to47" desc="BLC6"/>
+<Topic id="to48" desc="Omelette"/>
+<Topic id="to49" desc="Questionnaire sociolinguistique"/>
+<Topic id="to50" desc="QS1"/>
+<Topic id="to51" desc="QS3"/>
+<Topic id="to52" desc="QS4"/>
+<Topic id="to53" desc="QS5"/>
+<Topic id="to54" desc="QS7"/>
+<Topic id="to55" desc="QS8"/>
+<Topic id="to56" desc="QS9"/>
+<Topic id="to57" desc="QS10"/>
+<Topic id="to58" desc="QS11"/>
+<Topic id="to59" desc="QS12"/>
+<Topic id="to60" desc="QS13"/>
+<Topic id="to61" desc="QS14"/>
+<Topic id="to62" desc="QS15"/>
+<Topic id="to63" desc="QS16"/>
+<Topic id="to64" desc="QS18"/>
+<Topic id="to65" desc="QS17"/>
+<Topic id="to66" desc="QS20"/>
+<Topic id="to67" desc="QS21"/>
+<Topic id="to68" desc="QS22"/>
+<Topic id="to69" desc="QS23"/>
+<Topic id="to70" desc="QS24"/>
+<Topic id="to71" desc="QS25"/>
+<Topic id="to72" desc="QS26"/>
+<Topic id="to73" desc="QS27"/>
+<Topic id="to74" desc="QS28"/>
+<Topic id="to75" desc="QS31"/>
+<Topic id="to76" desc="QS29"/>
+<Topic id="to77" desc="QS30"/>
+<Topic id="to78" desc="QS32"/>
+<Topic id="to79" desc="QS33"/>
+<Topic id="to80" desc="QS35"/>
+<Topic id="to81" desc="QS36"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="GJ131" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="GJ131FEM" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="RC" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="2.814">
+<Turn startTime="0" endTime="1.377">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1.377" endTime="2.814">
+<Sync time="1.377"/>
+monsieur
+<Sync time="2.218"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to1" startTime="2.814" endTime="10.88">
+<Turn speaker="spk4" startTime="2.814" endTime="6.754">
+<Sync time="2.814"/>
+depuis combien de temps habitez-vous Orléans ?
+<Sync time="5.223"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="6.754" endTime="10.88">
+<Sync time="6.754"/>
+oh ça fait neuf ans depuis dix neuf cent soixante
+<Sync time="9.353"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to2" startTime="10.88" endTime="31.14">
+<Turn speaker="spk4" startTime="10.88" endTime="14.843">
+<Sync time="10.88"/>
+vous vous plaisez à Orléans ?
+<Sync time="12.721"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.843" endTime="15.607">
+<Sync time="14.843"/>
+oui et non
+</Turn>
+<Turn speaker="spk4" startTime="15.607" endTime="17.644">
+<Sync time="15.607"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="16.852"/>
+pourquoi ça ?
+</Turn>
+<Turn speaker="spk1" startTime="17.644" endTime="31.14">
+<Sync time="17.644"/>
+bah parce que
+<Sync time="18.603"/>
+
+<Sync time="19.156"/>
+j'ai
+<Sync time="20.253"/>
+j'ai toujours euh
+<Sync time="21.016"/>
+je suis Lorrain
+<Sync time="21.708"/>
+alors j'ai
+<Sync time="22.404"/>
+je suis né en Lorraine et puis j'ai toujours été en Lorraine
+<Sync time="25.767"/>
+
+<Sync time="26.895"/>
+et je préfère la Lorraine à l'Orléanais
+<Sync time="29.232"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to3" startTime="31.14" endTime="38.225">
+<Turn speaker="spk4" startTime="31.14" endTime="33.85">
+<Sync time="31.14"/>
+et est-ce que vous comptez rester à Orléans ?
+<Sync time="33.082"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="33.85" endTime="36.459">
+<Sync time="33.85"/>
+oh je suis obligé par ma profession
+<Sync time="35.739"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="36.459" endTime="36.631">
+<Sync time="36.459"/>
+hm
+</Turn>
+<Turn speaker="spk4" startTime="36.631" endTime="38.225">
+<Sync time="36.631"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to5" startTime="38.225" endTime="68.506">
+<Turn speaker="spk4" startTime="38.225" endTime="40.394">
+<Sync time="38.225"/>
+et qu'est ce que vous faites comme travail ?
+<Sync time="39.75"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="40.394" endTime="43.041">
+<Sync time="40.394"/>
+je suis contrôleur divisionnaire aux PTT
+<Sync time="42.421"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="43.041" endTime="45.836">
+<Sync time="43.041"/>
+hm hm
+<Sync time="43.541"/>
+
+<Sync time="44.043"/>
+et en quoi ça consiste ?
+</Turn>
+<Turn speaker="spk1" startTime="45.836" endTime="66.998">
+<Sync time="45.836"/>
+euh c'est très vague
+<Sync time="47.421"/>
+
+<Sync time="48.473"/>
+ben
+<Sync time="49.837"/>
+c'est du travail de
+<Sync time="50.958"/>
+c'est difficile à définir c'est du travail de contrôle euh
+<Sync time="54.206"/>
+
+<Sync time="55.685"/>
+dans une
+<Sync time="56.834"/>
+dans certaines euh
+<Sync time="58.337"/>
+
+<Sync time="61.275"/>
+certaines branches du service euh postal quoi euh
+<Sync time="64.561"/>
+et y y'a un peu de tout c'est difficile à définir ça
+</Turn>
+<Turn speaker="spk4" startTime="66.998" endTime="68.506">
+<Sync time="66.998"/>
+hm hm
+<Sync time="67.356"/>
+
+<Sync time="67.833"/>
+mais
+<Sync time="68.024"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to6" startTime="68.506" endTime="247.122">
+<Turn speaker="spk4" startTime="68.506" endTime="72.57">
+<Sync time="68.506"/>
+est est-ce que vous voulez bien me décrire une journée de travail ?
+<Sync time="71.635"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.57" endTime="87.918">
+<Sync time="72.57"/>
+ah une journée de travail oui
+<Sync time="74.179"/>
+
+<Sync time="75.185"/>
+alors euh
+<Sync time="77.308"/>
+le matin je co- je commence à cinq heures
+<Sync time="79.483"/>
+
+<Sync time="83.423"/>
+et
+<Sync time="84.215"/>
+de
+<Sync time="84.935"/>
+cinq heures à
+<Sync time="86.271"/>
+
+<Sync time="86.633"/>
+vous voulez des détails de de 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="87.918" endTime="89.583">
+<Sync time="87.918"/>
+<Who nb="1"/>
+de ?
+<Who nb="2"/>
+si si
+</Turn>
+<Turn speaker="spk1 spk4" startTime="89.583" endTime="90.279">
+<Sync time="89.583"/>
+<Who nb="1"/>
+tous les détails ?
+<Who nb="2"/>
+vous pouvez détailler
+</Turn>
+<Turn speaker="spk1" startTime="90.279" endTime="96.551">
+<Sync time="90.279"/>
+
+<Sync time="90.446"/>
+alors de cinq heures à huit heures
+<Sync time="92.974"/>
+
+<Sync time="94.214"/>
+je fais du contrôle d'affranchissement
+<Sync time="96.098"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="96.551" endTime="97.254">
+<Sync time="96.551"/>
+hm
+<Sync time="96.754"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="97.254" endTime="213.606">
+<Sync time="97.254"/>
+dans l'arrivée du du courrier
+<Sync time="98.96"/>
+
+<Sync time="99.537"/>
+pour le le courrier qui est ins- insuffisamment affranchi qui est à taxer
+<Sync time="103.591"/>
+
+<Sync time="106.071"/>
+je prépare tout ça euh
+<Sync time="107.836"/>
+pour la distribution des
+<Sync time="109.861"/>
+préposés
+<Sync time="110.459"/>
+
+<Sync time="112.129"/>
+je mets les surtaxes et puis
+<Sync time="114.59"/>
+
+<Sync time="115.544"/>
+je les distribue à chaque euh chaque euh préposé et il doit encaisser la surtaxe
+<Sync time="120.771"/>
+dont
+<Comment desc="???"/>
+ le montant de la surtaxe euh
+<Sync time="122.321"/>
+
+<Sync time="122.703"/>
+chez les AG
+<Sync time="123.29"/>
+
+<Sync time="124.773"/>
+ensuite je passe à un autre genre d'opération vous savez 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="127.563"/>
+
+<Sync time="128.579"/>
+ça fait beaucoup de détails aussi ça
+<Sync time="130.354"/>
+
+<Sync time="131.718"/>
+alors j'ai des des tas de de choses quoi contrôle de contrôle de machines à affranchir installation de machines à affranchir euh
+<Sync time="139.516"/>
+
+<Sync time="141.066"/>
+euh distributeurs de euh automatiques de timbres-poste je m'en occupe aussi
+<Sync time="145.43"/>
+
+<Sync time="146.647"/>
+des statistiques
+<Sync time="147.892"/>
+du contrôle toujours du contrôle de d'ordres de réexpédition euh
+<Sync time="152.142"/>
+
+<Sync time="155.867"/>
+pour le matin c'est c'est à peu près
+<Sync time="157.923"/>
+
+<Sync time="159.621"/>
+à peu près tout ce qu'y a quoi
+<Sync time="160.89"/>
+
+<Sync time="161.777"/>
+alors l'après-midi c'est d'autres choses le lendemain
+<Sync time="163.9"/>
+
+<Sync time="164.978"/>
+le lendemain on commence à midi
+<Sync time="166.819"/>
+
+<Sync time="166.962"/>
+de midi à sept heures et demie le soir
+<Sync time="168.918"/>
+
+<Sync time="169.233"/>
+dix-neuf heures trente
+<Sync time="170.025"/>
+
+<Sync time="171.461"/>
+alors euh
+<Sync time="172.42"/>
+c'est pareil toujours contrôle d'affranchissement pour la deuxième distribution
+<Sync time="176.336"/>
+
+<Sync time="176.627"/>
+jusqu'à
+<Sync time="177.657"/>
+
+<Sync time="178.373"/>
+quinze heures environ
+<Sync time="179.427"/>
+
+<Sync time="180.476"/>
+et même opération que le matin
+<Sync time="182.289"/>
+
+<Sync time="184.774"/>
+et puis
+<Sync time="186.09"/>
+
+<Sync time="188.404"/>
+dans la soirée enfin en- entre temps y'a toujours ce ce ces machines à affranchir à installer ou distributeurs en panne ou quelque chose comme ça quoi
+<Sync time="196.66"/>
+
+<Sync time="197.833"/>
+et dans la fin de s- sur la fin de la soirée euh le contrôle des signatures des mandats payés à domicile
+<Sync time="205.23"/>
+
+<Sync time="205.707"/>
+par les fa- par les préposés
+<Sync time="206.995"/>
+
+<Sync time="209.285"/>
+pour tout ce qui est tous les mandats qui ont été payés à Orléans euh à domicile
+</Turn>
+<Turn speaker="spk4" startTime="213.606" endTime="215.395">
+<Sync time="213.606"/>
+hm hm
+<Sync time="214.043"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="215.395" endTime="219.339">
+<Sync time="215.395"/>
+alors euh contrôle des signatures de enfin contrôle quoi
+<Sync time="219.12"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="219.339" endTime="219.983">
+<Sync time="219.339"/>
+<Who nb="1"/>
+hein
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk4" startTime="219.983" endTime="224.042">
+<Sync time="219.983"/>
+
+<Sync time="221.199"/>
+alors c'est une journée assez longue ?
+<Sync time="222.893"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="224.042" endTime="227.267">
+<Sync time="224.042"/>
+ah bien on fait sept heures et demie de de file quoi
+<Sync time="227.119"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="227.267" endTime="228.209">
+<Sync time="227.267"/>
+hm hm
+<Sync time="227.751"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="228.209" endTime="238.97">
+<Sync time="228.209"/>
+alors euh
+<Sync time="228.762"/>
+
+<Sync time="229.192"/>
+le premi- le l-
+<Sync time="230.723"/>
+
+<Sync time="231.057"/>
+on commence le matin
+<Sync time="232.183"/>
+à cin- euh à cinq heures
+<Sync time="233.929"/>
+jusqu'à midi et demi
+<Sync time="235.078"/>
+
+<Sync time="235.388"/>
+et on recommence le lendemain de midi
+<Sync time="237.344"/>
+
+<Sync time="238.064"/>
+à dix-neuf heures trente
+</Turn>
+<Turn speaker="spk4" startTime="238.97" endTime="240.425">
+<Sync time="238.97"/>
+hm hm
+<Sync time="239.486"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="240.425" endTime="242.094">
+<Sync time="240.425"/>
+et puis ainsi de suite
+<Sync time="241.999"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="242.094" endTime="242.344">
+<Sync time="242.094"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="242.344" endTime="246.492">
+<Sync time="242.344"/>
+le surlendemain cinq heures midi et ainsi de suite
+<Sync time="245.767"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="246.492" endTime="247.122">
+<Sync time="246.492"/>
+et
+<Sync time="246.807"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to7" startTime="247.122" endTime="266.517">
+<Turn speaker="spk4" startTime="247.122" endTime="251.095">
+<Sync time="247.122"/>
+qu'est-ce qui vous plaît dans votre travail ?
+<Sync time="249.735"/>
+peut-être il y a quelque chose qui vous 
+</Turn>
+<Turn speaker="spk4 spk1" startTime="251.095" endTime="252.179">
+<Sync time="251.095"/>
+<Who nb="1"/>
+déplait ?
+<Who nb="2"/>
+ah bah
+</Turn>
+<Turn speaker="spk1" startTime="252.179" endTime="260.828">
+<Sync time="252.179"/>
+vous savez ça fait
+<Sync time="252.422"/>
+
+<Sync time="252.828"/>
+ça fait trente-deux ans que je suis postier moi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="256.768"/>
+j'ai 
+<Comment desc="rire"/>
+j'ai toujours été aux PTT alors euh
+<Sync time="258.991"/>
+y'a trente-deux ans d'ailleurs je que
+</Turn>
+<Turn speaker="spk1 spk4" startTime="260.828" endTime="261.756">
+<Sync time="260.828"/>
+<Who nb="1"/>
+je suis rentré
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="261.756" endTime="265.172">
+<Sync time="261.756"/>
+aux PTT en dix neuf cent trente-sept
+<Sync time="263.431"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="265.172" endTime="265.94">
+<Sync time="265.172"/>
+<Who nb="1"/>
+et si
+<Who nb="2"/>
+alors euh
+</Turn>
+<Turn speaker="spk4" startTime="265.94" endTime="266.517">
+<Sync time="265.94"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to8" startTime="266.517" endTime="285.663">
+<Turn speaker="spk4" startTime="266.517" endTime="269.002">
+<Sync time="266.517"/>
+et si vous n'étiez pas postier ?
+<Sync time="268.449"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="269.002" endTime="269.908">
+<Sync time="269.002"/>
+ah ben ça
+</Turn>
+<Turn speaker="spk4 spk1" startTime="269.908" endTime="271.22">
+<Sync time="269.908"/>
+<Who nb="1"/>
+qu'est ce que vous aimeriez faire ?
+<Who nb="2"/>
+euh
+</Turn>
+<Turn speaker="spk1" startTime="271.22" endTime="273.796">
+<Sync time="271.22"/>
+
+<Sync time="271.959"/>
+bon moi je bricole beaucoup hein ?
+<Sync time="273.414"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="273.796" endTime="274.635">
+<Sync time="273.796"/>
+hm hm
+<Sync time="274.374"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="274.635" endTime="277.426">
+<Sync time="274.635"/>
+la preuve c'est je viens de refaire l'appartement hein
+<Sync time="276.877"/>
+quand vous êtes venu 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="277.426" endTime="279.887">
+<Sync time="277.426"/>
+<Who nb="1"/>
+j'étais en pleine peinture hein ?
+<Who nb="2"/>
+ah
+<Sync time="278.766"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="279.887" endTime="282.963">
+<Sync time="279.887"/>
+maintenant c'est terminé vous voyez qu'on a bien fait de retarder
+<Sync time="282.51"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="282.963" endTime="285.663">
+<Sync time="282.963"/>
+hm hm
+<Sync time="283.354"/>
+
+<Sync time="284.776"/>
+euh on
+<Sync time="285.448"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to9" startTime="285.663" endTime="336.131">
+<Turn speaker="spk4" startTime="285.663" endTime="291.391">
+<Sync time="285.663"/>
+on trouve que de plus en plus de de femmes mariées travaillent aujourd'hui
+<Sync time="290.528"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="291.391" endTime="291.94">
+<Sync time="291.391"/>
+oui
+</Turn>
+<Turn speaker="spk4" startTime="291.94" endTime="295.88">
+<Sync time="291.94"/>
+et vous personnellement est-ce que vous êtes pour ou contre ?
+<Sync time="295.14"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="295.88" endTime="307.241">
+<Sync time="295.88"/>
+non je préfèrerais que
+<Sync time="298.436"/>
+
+<Sync time="298.985"/>
+avoir un traitement suffisant ou pour euh que la femme ne travaille pas évidemment ça c'est le but de 
+<Sync time="304.397"/>
+c'est le but général c'est le but de tout le monde ça
+<Sync time="306.764"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="307.241" endTime="308.033">
+<Sync time="307.241"/>
+hm hm
+<Sync time="307.663"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="308.033" endTime="327.549">
+<Sync time="308.033"/>
+d'un autre côté
+<Sync time="309.278"/>
+
+<Sync time="311.739"/>
+l'occupation aussi c'est pas mauvais non plus
+<Sync time="314.148"/>
+
+<Sync time="317.086"/>
+mais enfin pas être obligée de faire des
+<Sync time="319.332"/>
+des journées euh
+<Sync time="320.947"/>
+
+<Sync time="321.162"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="321.596"/>
+
+<Sync time="322.288"/>
+disons un travail à mi-temps par exemple pour une femme c'est
+<Sync time="324.821"/>
+
+<Sync time="326.447"/>
+ça serait pas mal
+<Sync time="327.306"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="327.549" endTime="327.912">
+<Sync time="327.549"/>
+hm
+<Sync time="327.812"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="327.912" endTime="335.816">
+<Sync time="327.912"/>
+mais être obligée de faire des journées complètes
+<Sync time="330.202"/>
+
+<Sync time="332.043"/>
+c'est mon point de vue hein ?
+<Sync time="333.092"/>
+
+<Sync time="333.593"/>
+c'est ce que je cherche d'ailleurs
+<Sync time="334.881"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="335.816" endTime="336.131">
+<Sync time="335.816"/>
+et 
+</Turn>
+</Section>
+<Section type="report" topic="to11" startTime="336.131" endTime="372.425">
+<Turn speaker="spk4" startTime="336.131" endTime="339.88">
+<Sync time="336.131"/>
+qu'est ce que vous faites de votre temps libre ?
+<Sync time="338.234"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="339.88" endTime="362.517">
+<Sync time="339.88"/>
+ah bon vous savez j'ai toujours de quoi m'occuper
+<Sync time="342.627"/>
+
+<Sync time="345.704"/>
+je bricole pas mal
+<Sync time="347.259"/>
+
+<Sync time="347.931"/>
+je
+<Sync time="348.957"/>
+
+<Sync time="349.224"/>
+donne un coup de main à droite à gauche quoi euh
+<Sync time="351.633"/>
+
+<Sync time="352.735"/>
+et puis enfin maintenant moins parce que
+<Sync time="356.412"/>
+
+<Sync time="356.746"/>
+je commence à avoir un certain âge alors quand je commence à cinq heures du matin vous savez je vais faire ma petite sieste l'après-midi
+<Sync time="361.921"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="362.517" endTime="362.808">
+<Sync time="362.517"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="362.808" endTime="365.25">
+<Sync time="362.808"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="363.29"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="365.25" endTime="367.211">
+<Sync time="365.25"/>
+et
+<Sync time="365.727"/>
+le samedi et le dimanche ?
+<Sync time="367.063"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="367.211" endTime="372.425">
+<Sync time="367.211"/>
+oh le samedi et le dimanche euh
+<Sync time="368.694"/>
+
+<Sync time="369.124"/>
+principalement la pêche
+<Sync time="370.417"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to12" startTime="372.425" endTime="378.478">
+<Turn speaker="spk4" startTime="372.425" endTime="375.22">
+<Sync time="372.425"/>
+et comment vous l'avez-vous passé le dimanche dernier ?
+<Sync time="374.581"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="375.22" endTime="377.729">
+<Sync time="375.22"/>
+à la pêche justement
+<Sync time="376.226"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="377.729" endTime="378.478">
+<Sync time="377.729"/>
+oui
+<Sync time="378.044"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to13" startTime="378.478" endTime="410.739">
+<Turn speaker="spk4" startTime="378.478" endTime="381.536">
+<Sync time="378.478"/>
+et que ferez-vous pendant les vacances d'été ?
+<Sync time="380.577"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="381.536" endTime="402.546">
+<Sync time="381.536"/>
+ah ça ça ça dépend des années cette année je ne je n'ai encore rien de prévu pour cette année 
+<Sync time="386.406"/>
+m'enfin habituellement euh les autres années on retient
+<Sync time="389.434"/>
+
+<Sync time="390.722"/>
+on retient un hôtel au bord de la mer quoi
+<Sync time="394.084"/>
+
+<Sync time="394.323"/>
+enfin cette année je sais pas j'ai l'impression que
+<Sync time="396.402"/>
+
+<Sync time="397.333"/>
+on va plutôt
+<Sync time="398.411"/>
+faire un voyage on va plutôt faire des vacances itinérantes
+<Sync time="402.303"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="402.546" endTime="406.353">
+<Sync time="402.546"/>
+hm hm hm
+<Sync time="403.262"/>
+
+<Sync time="404.65"/>
+pour faire la pêche ?
+<Sync time="405.299"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="406.353" endTime="410.739">
+<Sync time="406.353"/>
+<Who nb="1"/>
+oui j- y'a toujours le matériel dans la voiture
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="409.215"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+bon
+</Turn>
+</Section>
+<Section type="report" topic="to14" startTime="410.739" endTime="444.806">
+<Turn speaker="spk4" startTime="410.739" endTime="418.888">
+<Sync time="410.739"/>
+et si vous aviez deux heures de temps libre supplémentaire par jour 
+<Sync time="416.088"/>
+
+<Sync time="416.594"/>
+que feriez-vous de de ce temps libre ?
+</Turn>
+<Turn speaker="spk1" startTime="418.888" endTime="424.556">
+<Sync time="418.888"/>
+
+<Sync time="421.821"/>
+ben je me suis jamais posé la question parce que 
+</Turn>
+<Turn speaker="spk4 spk1" startTime="424.556" endTime="425.518">
+<Sync time="424.556"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="425.518" endTime="436.902">
+<Sync time="425.518"/>
+vous savez pour avoir deux heures de plus
+<Sync time="427.616"/>
+
+<Sync time="429.815"/>
+oh puis y'a toujours moyen de s'occuper hein
+<Sync time="431.584"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="436.902" endTime="443.585">
+<Sync time="436.902"/>
+alors je vais vous poser quelques questions au sujet de l'enseignement
+<Sync time="440.956"/>
+
+<Sync time="441.243"/>
+et de de des lycées et de l'é- des écoles
+</Turn>
+<Turn speaker="spk4" startTime="443.585" endTime="444.806">
+<Sync time="443.585"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to16" startTime="444.806" endTime="525.947">
+<Turn speaker="spk4" startTime="444.806" endTime="450.11">
+<Sync time="444.806"/>
+à votre avis monsieur qu'est-ce qu'on devrait apprendre surtout aux enfants ?
+<Sync time="449.056"/>
+
+<Sync time="449.323"/>
+à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="450.11" endTime="457.956">
+<Sync time="450.11"/>
+
+<Sync time="455.094"/>
+ce qu'on devrait apprendre surtout aux enfants à l'école ?
+</Turn>
+<Turn speaker="spk4" startTime="457.956" endTime="462.017">
+<Sync time="457.956"/>
+hm hm
+<Sync time="458.316"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="462.017" endTime="477.327">
+<Sync time="462.017"/>
+ben moi je vois l'en- l'enseignement tel qu'on l'a tel qu'on l'a eu nous-mêmes l'enseignement primaire était très bien
+<Sync time="468.694"/>
+
+<Sync time="470.149"/>
+enfin moi je suis en primaire évidemment je j'étais pas au lycée je j'ai
+<Sync time="474.299"/>
+continué à à l'école primaire supérieure
+</Turn>
+<Turn speaker="spk4" startTime="477.327" endTime="479.263">
+<Sync time="477.327"/>
+hm hm
+<Sync time="477.858"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="479.263" endTime="494.368">
+<Sync time="479.263"/>
+mais 
+<Sync time="480.15"/>
+ce qui serait intéressant c'est que justement
+<Sync time="483.036"/>
+
+<Sync time="484.543"/>
+on puisse euh
+<Sync time="486.093"/>
+
+<Sync time="486.666"/>
+les enfants puissent apprendre de très bonne heure
+<Sync time="489.127"/>
+
+<Sync time="489.771"/>
+euh très jeunes
+<Sync time="490.801"/>
+
+<Sync time="491.803"/>
+une ou deux langues étrangères une au moins
+<Sync time="493.774"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="494.368" endTime="495.024">
+<Sync time="494.368"/>
+et pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="495.024" endTime="504.888">
+<Sync time="495.024"/>
+
+<Sync time="496.135"/>
+eh bien
+<Sync time="497.213"/>
+
+<Sync time="497.552"/>
+c'est très utile dans la vie
+<Sync time="499.052"/>
+
+<Sync time="499.918"/>
+je m'en suis rendu compte puisque j'ai fait la guerre euh
+<Sync time="502.355"/>
+
+<Sync time="502.904"/>
+dans les Forces Françaises Libres
+<Sync time="504.578"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="504.888" endTime="505.77">
+<Sync time="504.888"/>
+hm hm
+<Sync time="505.42"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="505.77" endTime="521.649">
+<Sync time="505.77"/>
+et j'ai eu l'occasion justement de côtoyer les Américains les Anglais
+<Sync time="509.443"/>
+
+<Sync time="510.95"/>
+et heureusement j'avais appris l'allemand à l'école primaire supérieure et je me suis pas mal débrouillé en Allemagne lorsque évidemment
+<Sync time="517.556"/>
+
+<Sync time="517.99"/>
+nous sommes euh 
+<Sync time="518.658"/>
+
+<Sync time="519.664"/>
+nous les avons reconduits
+<Sync time="520.833"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="521.649" endTime="523.694">
+<Sync time="521.649"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="523.694" endTime="525.947">
+<Sync time="523.694"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to17" startTime="525.947" endTime="551.259">
+<Turn speaker="spk4" startTime="525.947" endTime="531.884">
+<Sync time="525.947"/>
+et qu'est-ce que vous pensez du latin à l'école ?
+<Sync time="528.731"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="531.884" endTime="549.048">
+<Sync time="531.884"/>
+ah ça c'est un peu puissant pour moi ça euh
+<Sync time="534.274"/>
+naturel- le latin a évidemment euh
+<Sync time="536.306"/>
+ce ça serait pas mal parce que c'est quand même le la base de
+<Sync time="540.293"/>
+
+<Sync time="543.751"/>
+c'est tout de même la euh
+<Sync time="544.872"/>
+
+<Sync time="545.95"/>
+la base de la langue française quoi du
+<Sync time="548.292"/>
+c'est vrai
+<Sync time="548.798"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="549.048" endTime="551.259">
+<Sync time="549.048"/>
+hm hm
+<Sync time="549.423"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to18" startTime="551.259" endTime="599.448">
+<Turn speaker="spk4" startTime="551.259" endTime="554.693">
+<Sync time="551.259"/>
+et dans quelle matière est-il bon qu'un enfant soit fort ?
+</Turn>
+<Turn speaker="spk1" startTime="554.693" endTime="572.814">
+<Sync time="554.693"/>
+
+<Sync time="558.676"/>
+ben maintenant moi à mon avis je pense que
+<Sync time="561.638"/>
+
+<Sync time="562.621"/>
+euh ce serait
+<Sync time="564.343"/>
+
+<Sync time="565.349"/>
+pour l'avenir je pense pour les les enfants de maintenant ce serait plutôt les mathématiques plus qu'ils se dirigent vers la science c'est là quand même le meilleur débouché
+<Sync time="572.575"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="572.814" endTime="573.51">
+<Sync time="572.814"/>
+hm hm
+<Sync time="573.391"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="573.51" endTime="574.727">
+<Sync time="573.51"/>
+à mon avis
+<Sync time="573.987"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="574.727" endTime="576.186">
+<Sync time="574.727"/>
+hm
+<Sync time="574.977"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="576.186" endTime="580.627">
+<Sync time="576.186"/>
+avant évidemment euh
+<Sync time="577.403"/>
+
+<Sync time="578.934"/>
+c'est plus du tout la même vie hein euh
+</Turn>
+<Turn speaker="spk4" startTime="580.627" endTime="581.58">
+<Sync time="580.627"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="581.58" endTime="597.927">
+<Sync time="581.58"/>
+toutes les matières étaient bonnes mais bon
+<Sync time="583.537"/>
+français euh géographie langue étrangère ou
+<Sync time="587.214"/>
+
+<Sync time="588.025"/>
+tout ça était bon mais maintenant pour l'avenir quand même pour les enfants je crois que euh les mathématiques la science le
+<Sync time="594.154"/>
+
+<Sync time="595.971"/>
+c'est quand même des débouchés plus sérieux
+<Sync time="597.712"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="597.927" endTime="599.448">
+<Sync time="597.927"/>
+hm hm
+<Sync time="598.442"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to19" startTime="599.448" endTime="628.445">
+<Turn speaker="spk4" startTime="599.448" endTime="603.789">
+<Sync time="599.448"/>
+et qu'est-ce qui fait que les enfants réussissent ou ne réussissent pas à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="603.789" endTime="614.755">
+<Sync time="603.789"/>
+
+<Sync time="606.775"/>
+oh ça
+<Sync time="607.901"/>
+
+<Sync time="610.124"/>
+vous savez euh j'ai deux enfants hein j'en ai un qui a pas voulu continuer et puis l'autre qui continue
+</Turn>
+<Turn speaker="spk4 spk1" startTime="614.755" endTime="615.638">
+<Sync time="614.755"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+ça ça
+</Turn>
+<Turn speaker="spk1" startTime="615.638" endTime="619.85">
+<Sync time="615.638"/>
+
+<Sync time="616.692"/>
+ça 
+<Sync time="617.336"/>
+c'est
+<Sync time="618.008"/>
+
+<Sync time="618.319"/>
+c'est difficile à définir ça
+</Turn>
+<Turn speaker="spk4" startTime="619.85" endTime="622.259">
+<Sync time="619.85"/>
+hm hm
+<Sync time="620.381"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="622.259" endTime="625.62">
+<Sync time="622.259"/>
+et puis y'a une question
+<Sync time="623.623"/>
+il faut qu'ils soient doués ou pas
+<Sync time="625.412"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="625.62" endTime="628.445">
+<Sync time="625.62"/>
+hm hm
+<Sync time="626.309"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to20" startTime="628.445" endTime="639.745">
+<Turn speaker="spk4" startTime="628.445" endTime="632.743">
+<Sync time="628.445"/>
+et jusqu'à quel âge est-ce qu'il faudrait que les enfants
+<Sync time="630.878"/>
+
+<Sync time="631.24"/>
+continuent leurs études ?
+</Turn>
+<Turn speaker="spk1" startTime="632.743" endTime="637.952">
+<Sync time="632.743"/>
+
+<Sync time="634.989"/>
+ben je crois que ben le plus longtemps possible
+<Sync time="637.47"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="637.952" endTime="639.745">
+<Sync time="637.952"/>
+hm
+<Sync time="638.374"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to21" startTime="639.745" endTime="658.658">
+<Turn speaker="spk4" startTime="639.745" endTime="641.997">
+<Sync time="639.745"/>
+est-ce que la même chose pour les garçons et les filles ?
+</Turn>
+<Turn speaker="spk1" startTime="641.997" endTime="646.152">
+<Sync time="641.997"/>
+
+<Sync time="642.798"/>
+oui
+<Sync time="643.304"/>
+
+<Sync time="643.738"/>
+y'a pas de raison
+<Sync time="644.549"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="646.152" endTime="650.092">
+<Sync time="646.152"/>
+et pourquoi est-ce que vous dites le plus longtemps possible ?
+</Turn>
+<Turn speaker="spk1" startTime="650.092" endTime="656.197">
+<Sync time="650.092"/>
+
+<Sync time="650.955"/>
+ben le plus longtemps possible pour euh essayer d'obtenir la meilleure situation possible bien entendu
+<Sync time="655.572"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="656.197" endTime="658.658">
+<Sync time="656.197"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to23" startTime="658.658" endTime="717.021">
+<Turn speaker="spk4" startTime="658.658" endTime="667.483">
+<Sync time="658.658"/>
+et pour revenir euh à la ville d'Orléans
+<Sync time="661.496"/>
+
+<Sync time="662.097"/>
+est-ce que d'après vous
+<Sync time="663.723"/>
+
+<Sync time="664.153"/>
+on fait assez pour les habitants ?
+<Sync time="666.543"/>
+
+<Sync time="666.858"/>
+à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="667.483" endTime="677.504">
+<Sync time="667.483"/>
+
+<Sync time="674.117"/>
+ben en quel sens ?
+<Sync time="675.381"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="677.504" endTime="689.461">
+<Sync time="677.504"/>
+bon
+<Sync time="678.161"/>
+
+<Sync time="679.321"/>
+c'est-à-dire euh on on dit
+<Sync time="681.08"/>
+
+<Sync time="681.276"/>
+bon est-ce qu'on fait assez pour les les habitants ?
+<Sync time="684.309"/>
+
+<Sync time="684.858"/>
+peut-être la municipalité ou les autorités 
+<Event desc="auteurité" type="pronounce" extent="previous"/>
+ n'importe qui
+</Turn>
+<Turn speaker="spk1" startTime="689.461" endTime="703.865">
+<Sync time="689.461"/>
+oh vous savez y'a pas à se plaindre c'est pas
+<Sync time="693.068"/>
+
+<Sync time="694.572"/>
+y'a bien des détails comme euh un trottoir qui est démoli et qui est pas refait ou des des bricoles comme ça qui sont vous savez ça se passe partout ça dans toutes les villes hein
+</Turn>
+<Turn speaker="spk4" startTime="703.865" endTime="712.117">
+<Sync time="703.865"/>
+hm hm
+<Sync time="704.693"/>
+
+<Sync time="706.439"/>
+alors j'ai une question que je vais vous poser
+<Sync time="708.73"/>
+
+<Sync time="709.272"/>
+c'est de parler des événements de mai dernier
+</Turn>
+<Turn speaker="spk1" startTime="712.117" endTime="712.672">
+<Sync time="712.117"/>
+oui
+</Turn>
+<Turn speaker="spk4" startTime="712.672" endTime="716.005">
+<Sync time="712.672"/>
+moi
+<Sync time="713.485"/>
+
+<Sync time="714.163"/>
+je n'étais pas en France à l'époque
+</Turn>
+<Turn speaker="spk1" startTime="716.005" endTime="717.021">
+<Sync time="716.005"/>
+hm hm
+<Sync time="716.552"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to24" startTime="717.021" endTime="773.505">
+<Turn speaker="spk4" startTime="717.021" endTime="720.205">
+<Sync time="717.021"/>
+est ce que vous pourriez m'expliquer ce qui s'est passé ?
+</Turn>
+<Turn speaker="spk1" startTime="720.205" endTime="722.454">
+<Sync time="720.205"/>
+
+<Sync time="721.018"/>
+ce qui s'est passé en mai ?
+</Turn>
+<Turn speaker="spk4" startTime="722.454" endTime="723.538">
+<Sync time="722.454"/>
+hm hm
+<Sync time="723.266"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="723.538" endTime="755.185">
+<Sync time="723.538"/>
+oh vous savez c'est
+<Sync time="725.313"/>
+
+<Sync time="726.139"/>
+euh en mai c'est une grève générale quoi
+<Sync time="728.104"/>
+
+<Sync time="728.727"/>
+grève
+<Sync time="729.289"/>
+mécontentement général des ouvriers c'est euh
+<Sync time="732.52"/>
+euh ça a commencé évidemment par le les manifestations étudiants euh
+<Sync time="737.329"/>
+
+<Sync time="738.413"/>
+et puis
+<Sync time="740.107"/>
+
+<Sync time="740.373"/>
+y a eu le
+<Sync time="741.272"/>
+
+<Sync time="741.678"/>
+le mécontentement
+<Sync time="743.033"/>
+
+<Sync time="744.117"/>
+les sal- et et surtout pour les petits salaires
+<Sync time="746.501"/>
+ils ont été euh 
+<Sync time="747.818"/>
+d'ailleurs euh
+<Sync time="749.278"/>
+le gouvernement a immédiatement accordé à
+<Sync time="751.785"/>
+
+<Sync time="753.285"/>
+une augmentation substantielle
+</Turn>
+<Turn speaker="spk4" startTime="755.185" endTime="756.879">
+<Sync time="755.185"/>
+hm hm
+<Sync time="755.779"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="756.879" endTime="770.714">
+<Sync time="756.879"/>
+ce qu'il aurait d'ailleurs très bien pu faire euh
+<Sync time="759.129"/>
+
+<Sync time="759.941"/>
+les années précédentes
+<Sync time="761.488"/>
+
+<Sync time="764.346"/>
+grève générale
+<Sync time="765.284"/>
+
+<Sync time="766.649"/>
+jusqu'à temps qu'on obtienne 
+<Comment desc="rire"/>
+ euh
+<Sync time="768.804"/>
+
+<Sync time="769.522"/>
+satisfaction
+</Turn>
+<Turn speaker="spk4" startTime="770.714" endTime="773.505">
+<Sync time="770.714"/>
+hm
+<Sync time="771.635"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to25" startTime="773.505" endTime="824.748">
+<Turn speaker="spk4" startTime="773.505" endTime="779.739">
+<Sync time="773.505"/>
+qu'est-ce que vous les différences entre les classes sociales sont très marquées à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="779.739" endTime="805.992">
+<Sync time="779.739"/>
+
+<Sync time="783.072"/>
+bon vous savez chez chez nous les fonctionnaires on peut pas
+<Sync time="786.405"/>
+
+<Sync time="797.934"/>
+ben les classes sociales vous voulez parlez de
+<Sync time="800.735"/>
+
+<Sync time="802.998"/>
+la population mais la population en général quoi ?
+</Turn>
+<Turn speaker="spk4" startTime="805.992" endTime="807.496">
+<Sync time="805.992"/>
+hm hm
+<Sync time="806.663"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="807.496" endTime="824.748">
+<Sync time="807.496"/>
+bon
+<Sync time="808.355"/>
+oui euh vous avez
+<Sync time="809.859"/>
+
+<Sync time="810.347"/>
+y'a quand même euh
+<Sync time="811.377"/>
+
+<Sync time="813.016"/>
+y'a quand même pas mal de
+<Sync time="814.922"/>
+
+<Sync time="816.742"/>
+de gros propriétaires 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ enfin vous savez c'est partout ça
+<Sync time="820.887"/>
+
+<Sync time="821.7"/>
+c'est le régime français ça
+<Sync time="823.09"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to26" startTime="824.748" endTime="856.667">
+<Turn speaker="spk4" startTime="824.748" endTime="828.203">
+<Sync time="824.748"/>
+et à quoi est-ce qu'on reconnaît par exemple un gros propriétaire ?
+</Turn>
+<Turn speaker="spk1" startTime="828.203" endTime="831.834">
+<Sync time="828.203"/>
+
+<Sync time="828.691"/>
+ah ben ici si il se reconnaît difficilement
+<Sync time="831.211"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="831.834" endTime="834.34">
+<Sync time="831.834"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="834.34" endTime="835.303">
+<Sync time="834.34"/>
+<Who nb="1"/>
+mais c'est quoi c'est
+<Who nb="2"/>
+c'est pas celui
+</Turn>
+<Turn speaker="spk1" startTime="835.303" endTime="836.318">
+<Sync time="835.303"/>
+qui est bien habillé
+</Turn>
+<Turn speaker="spk4 spk1" startTime="836.318" endTime="837.212">
+<Sync time="836.318"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+en général
+</Turn>
+<Turn speaker="spk4" startTime="837.212" endTime="841.155">
+<Sync time="837.212"/>
+hm hm
+<Sync time="838.04"/>
+
+<Sync time="838.702"/>
+mais 
+<Sync time="839.514"/>
+
+<Sync time="839.922"/>
+par quoi alors ?
+</Turn>
+<Turn speaker="spk1" startTime="841.155" endTime="850.684">
+<Sync time="841.155"/>
+
+<Sync time="842.984"/>
+ah ben par ce
+<Sync time="844.19"/>
+
+<Sync time="844.962"/>
+par les discussions par le
+<Sync time="847.211"/>
+
+<Sync time="849.121"/>
+quand on connaît les gens quoi
+</Turn>
+<Turn speaker="spk4" startTime="850.684" endTime="851.424">
+<Sync time="850.684"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="851.424" endTime="855.895">
+<Sync time="851.424"/>
+autrement
+<Sync time="852.064"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="855.895" endTime="856.667">
+<Sync time="855.895"/>
+et
+<Sync time="856.383"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to27" startTime="856.667" endTime="878.642">
+<Turn speaker="spk4" startTime="856.667" endTime="859.987">
+<Sync time="856.667"/>
+est-ce que on peut passer d'une classe à l'autre ?
+</Turn>
+<Turn speaker="spk1" startTime="859.987" endTime="876.948">
+<Sync time="859.987"/>
+
+<Sync time="865.623"/>
+euh celui qui qui peut faire beaucoup d'économies
+<Sync time="869.023"/>
+qui arrive à en faire évidemment euh là il va monter un petit peu
+<Sync time="872.952"/>
+
+<Sync time="873.358"/>
+ça en général c'est du patr- du patrimoine euh familial
+<Sync time="876.446"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="876.948" endTime="878.642">
+<Sync time="876.948"/>
+hm hm
+<Sync time="877.557"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to28" startTime="878.642" endTime="934.264">
+<Turn speaker="spk4" startTime="878.642" endTime="884.454">
+<Sync time="878.642"/>
+et est-ce que les différences entre les classes ont tendance à diminuer ou à augmenter ?
+</Turn>
+<Turn speaker="spk1" startTime="884.454" endTime="898.471">
+<Sync time="884.454"/>
+
+<Sync time="890.171"/>
+vous savez moi je vois pas hein ?
+<Sync time="892.549"/>
+
+<Sync time="894.52"/>
+ce ça aurait plutôt tendance à à diminuer quand même
+</Turn>
+<Turn speaker="spk4" startTime="898.471" endTime="899.297">
+<Sync time="898.471"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="899.297" endTime="900.395">
+<Sync time="899.297"/>
+à diminuer
+<Sync time="899.975"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="900.395" endTime="901.91">
+<Sync time="900.395"/>
+diminuer pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="901.91" endTime="916.557">
+<Sync time="901.91"/>
+
+<Sync time="905.286"/>
+bien justement par le fait euh
+<Sync time="907.723"/>
+
+<Sync time="909.228"/>
+des études que les jeunes peuvent faire même euh
+<Sync time="913.157"/>
+
+<Sync time="914.051"/>
+même n'é- n'étant pas fortunés voyez vous
+</Turn>
+<Turn speaker="spk4" startTime="916.557" endTime="917.844">
+<Sync time="916.557"/>
+hm hm
+<Sync time="917.104"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="917.844" endTime="931.338">
+<Sync time="917.844"/>
+les bourses accordées tout ça euh permettent de poursuivre les études
+<Sync time="921.553"/>
+
+<Sync time="923.263"/>
+ça diminue quand même ça
+<Sync time="924.435"/>
+
+<Sync time="925.431"/>
+seulement on n'enlèvera pas leur patrimoine familial qui est passé de père en fils ça y'a pas de doute
+<Sync time="930.197"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="931.338" endTime="931.932">
+<Sync time="931.338"/>
+hm hm
+</Turn>
+<Turn speaker="spk4" startTime="931.932" endTime="934.264">
+<Sync time="931.932"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to29" startTime="934.264" endTime="954.528">
+<Turn speaker="spk4" startTime="934.264" endTime="936.389">
+<Sync time="934.264"/>
+vos enfants monsieur qu'est-ce qu'ils font ?
+</Turn>
+<Turn speaker="spk1" startTime="936.389" endTime="942.41">
+<Sync time="936.389"/>
+
+<Sync time="938.532"/>
+et bien j'ai un fils qui
+<Sync time="940.328"/>
+
+<Sync time="941.109"/>
+qui est employé de banque
+</Turn>
+<Turn speaker="spk4" startTime="942.41" endTime="944.863">
+<Sync time="942.41"/>
+hm hm
+<Sync time="943.55"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="944.863" endTime="947.69">
+<Sync time="944.863"/>
+celui qui n'a pas voulu continuer après son brevet
+</Turn>
+<Turn speaker="spk4" startTime="947.69" endTime="948.635">
+<Sync time="947.69"/>
+hm hm
+<Sync time="948.08"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="948.635" endTime="950.938">
+<Sync time="948.635"/>
+et puis ma fille passe son BAC cette année
+</Turn>
+<Turn speaker="spk4" startTime="950.938" endTime="954.528">
+<Sync time="950.938"/>
+mh mh
+<Sync time="951.626"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to30" startTime="954.528" endTime="987.108">
+<Turn speaker="spk4" startTime="954.528" endTime="959.202">
+<Sync time="954.528"/>
+et est-ce que vous aimeriez qui de toute façon votre fils
+<Sync time="957.78"/>
+fasse autre chose ?
+</Turn>
+<Turn speaker="spk1" startTime="959.202" endTime="981.403">
+<Sync time="959.202"/>
+
+<Sync time="961.28"/>
+c'est lui qui a voulu s'arrêter ça lui plaît d'être de de travailler dans une banque et 
+<Sync time="966.434"/>
+il continue d'ailleurs à étudier
+<Sync time="968.44"/>
+
+<Sync time="968.74"/>
+pour euh obtenir des brevets son brevet professionnel il a déjà eu son certificat de 
+<Sync time="974.402"/>
+d'aptitude professionnelle maintenant il travaille pour son brevet professionnel
+<Sync time="977.984"/>
+
+<Sync time="978.472"/>
+il a décidé de faire sa carrière là ma foi
+</Turn>
+<Turn speaker="spk4" startTime="981.403" endTime="987.108">
+<Sync time="981.403"/>
+hm hm
+<Sync time="982.309"/>
+
+<Sync time="984.016"/>
+vous m'avez raconté une journée de votre travail
+</Turn>
+</Section>
+<Section type="report" topic="to32" startTime="987.108" endTime="1000.476">
+<Turn speaker="spk4" startTime="987.108" endTime="990.817">
+<Sync time="987.108"/>
+mais avec qui parlez-vous
+<Sync time="989.11"/>
+au cours de votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="990.817" endTime="998.986">
+<Sync time="990.817"/>
+
+<Sync time="993.066"/>
+ah là euh
+<Sync time="994.16"/>
+
+<Sync time="994.773"/>
+je parle avec beaucoup de monde 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ ça c'est difficile à vous expliquer
+</Turn>
+<Turn speaker="spk4" startTime="998.986" endTime="1000.476">
+<Sync time="998.986"/>
+hm hm
+<Sync time="999.643"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to33" startTime="1000.476" endTime="1034.155">
+<Turn speaker="spk4" startTime="1000.476" endTime="1002.804">
+<Sync time="1000.476"/>
+et et de quoi est-ce que vous parlez en général ?
+</Turn>
+<Turn speaker="spk1" startTime="1002.804" endTime="1022.437">
+<Sync time="1002.804"/>
+
+<Sync time="1005.421"/>
+ah euh dans les les conversations autres que le service par exemple oh 
+<Sync time="1009.515"/>
+euh on parle un petit un petit peu de tout de famille de pêche de
+<Sync time="1013.617"/>
+
+<Sync time="1014.498"/>
+de de chasse
+<Sync time="1016.34"/>
+enfin je suis pas chasseur mais enfin j'ai 
+<Sync time="1018.426"/>
+y'a beaucoup de chasseurs dans le pays alors je suis bien obligé de d'écouter leurs histoires de chasse
+</Turn>
+<Turn speaker="spk4" startTime="1022.437" endTime="1023.845">
+<Sync time="1022.437"/>
+hm hm
+<Sync time="1023.171"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1023.845" endTime="1029.535">
+<Sync time="1023.845"/>
+et puis bon enfin de toute sorte de chose de bricolage de papier peint de peinture de enfin de 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1029.535" endTime="1030.031">
+<Sync time="1029.535"/>
+<Who nb="1"/>
+ce 
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1030.031" endTime="1034.155">
+<Sync time="1030.031"/>
+qu'on fait quoi euh
+<Sync time="1031.635"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to34" startTime="1034.155" endTime="1048.787">
+<Turn speaker="spk4" startTime="1034.155" endTime="1037.502">
+<Sync time="1034.155"/>
+et êtes-vous satisfait de vos conditions de travail ?
+</Turn>
+<Turn speaker="spk1" startTime="1037.502" endTime="1048.787">
+<Sync time="1037.502"/>
+
+<Sync time="1042.514"/>
+ça pourrait être meilleur
+<Sync time="1043.882"/>
+
+<Sync time="1044.221"/>
+ça pourrait être meilleur mais enfin y'a pas tellement à se plaindre quoi
+<Sync time="1048.096"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to35" startTime="1048.787" endTime="1078.623">
+<Turn speaker="spk4" startTime="1048.787" endTime="1051.099">
+<Sync time="1048.787"/>
+et qu'est-ce que vous aimeriez voir changer ?
+</Turn>
+<Turn speaker="spk1" startTime="1051.099" endTime="1067.087">
+<Sync time="1051.099"/>
+
+<Sync time="1056.658"/>
+le
+<Sync time="1057.83"/>
+
+<Sync time="1059.401"/>
+les horaires
+<Sync time="1060.261"/>
+
+<Sync time="1060.756"/>
+les horaires de travail
+<Sync time="1061.803"/>
+
+<Sync time="1063.262"/>
+parce que ça fait trente-deux ans que je me lève à quatre heures du matin hein ?
+<Sync time="1066.09"/>
+alors
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1067.087" endTime="1069.113">
+<Sync time="1067.087"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1069.113" endTime="1071.565">
+<Sync time="1069.113"/>
+<Who nb="1"/>
+et pour madame aussi ça c'est
+<Who nb="2"/>
+seulement c'est difficile
+</Turn>
+<Turn speaker="spk4" startTime="1071.565" endTime="1072.065">
+<Sync time="1071.565"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1072.065" endTime="1074.681">
+<Sync time="1072.065"/>
+seulement ça c'est difficile surtout dans le métier de postier
+</Turn>
+<Turn speaker="spk4" startTime="1074.681" endTime="1078.623">
+<Sync time="1074.681"/>
+hm hm
+<Sync time="1075.509"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to36" startTime="1078.623" endTime="1084.769">
+<Turn speaker="spk4" startTime="1078.623" endTime="1080.717">
+<Sync time="1078.623"/>
+est-ce que vous vous avez déjà fait grève ?
+</Turn>
+<Turn speaker="spk1" startTime="1080.717" endTime="1082.296">
+<Sync time="1080.717"/>
+
+<Sync time="1081.671"/>
+ah oui
+</Turn>
+<Turn speaker="spk4" startTime="1082.296" endTime="1082.755">
+<Sync time="1082.296"/>
+quand ?
+</Turn>
+<Turn speaker="spk1" startTime="1082.755" endTime="1084.191">
+<Sync time="1082.755"/>
+
+<Sync time="1083.094"/>
+à de à chaque fois
+</Turn>
+<Turn speaker="spk4" startTime="1084.191" endTime="1084.769">
+<Sync time="1084.191"/>
+à chaque fois
+</Turn>
+</Section>
+<Section type="report" topic="to37" startTime="1084.769" endTime="1125.786">
+<Turn speaker="spk4" startTime="1084.769" endTime="1089.15">
+<Sync time="1084.769"/>
+et comment ça a com- commencé ?
+<Sync time="1087.172"/>
+
+<Sync time="1088.608"/>
+savez vous ?
+</Turn>
+<Turn speaker="spk1" startTime="1089.15" endTime="1090.654">
+<Sync time="1089.15"/>
+comme j'ai commencé à faire grève ?
+</Turn>
+<Turn speaker="spk4" startTime="1090.654" endTime="1095.21">
+<Sync time="1090.654"/>
+hm hm
+<Sync time="1091.045"/>
+
+<Sync time="1093.851"/>
+hm hm
+<Sync time="1094.444"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1095.21" endTime="1095.73">
+<Sync time="1095.21"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ah
+</Turn>
+<Turn speaker="spk1" startTime="1095.73" endTime="1097.391">
+<Sync time="1095.73"/>
+ça ça ça remonte à très loin ça
+</Turn>
+<Turn speaker="spk4" startTime="1097.391" endTime="1102.246">
+<Sync time="1097.391"/>
+ah bon mais est-ce que vous pouvez me raconter ce qui s'est passé 
+<Sync time="1101.102"/>
+quand quand vous avez fait grève ?
+</Turn>
+<Turn speaker="spk1" startTime="1102.246" endTime="1112.479">
+<Sync time="1102.246"/>
+
+<Sync time="1106.332"/>
+ah eh bien
+<Sync time="1107.484"/>
+
+<Sync time="1108.039"/>
+euh nous avions une réunion
+<Sync time="1109.936"/>
+une réunion syndicale euh tous les matins
+<Sync time="1112.299"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1112.479" endTime="1116.1">
+<Sync time="1112.479"/>
+hm hm
+<Sync time="1113.048"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1116.1" endTime="1125.786">
+<Sync time="1116.1"/>
+pour avoir les nouvelles de ce qui se passait évidemment euh dans les discussions euh avec le gouvernement
+<Sync time="1121.415"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to38" startTime="1125.786" endTime="1151.555">
+<Turn speaker="spk4" startTime="1125.786" endTime="1128.145">
+<Sync time="1125.786"/>
+et vous avez obtenu satisfaction ?
+</Turn>
+<Turn speaker="spk1" startTime="1128.145" endTime="1141.136">
+<Sync time="1128.145"/>
+
+<Sync time="1130.596"/>
+oui quand même pour cette fois-là
+<Sync time="1133.116"/>
+
+<Sync time="1135.974"/>
+pas pas entièrement mais
+<Sync time="1137.736"/>
+
+<Sync time="1138.698"/>
+y'a toujours des promesses en suspens
+<Sync time="1140.473"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1141.136" endTime="1144.144">
+<Sync time="1141.136"/>
+hm hm
+<Sync time="1141.585"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1144.144" endTime="1151.555">
+<Sync time="1144.144"/>
+vous savez y'avait quand même eu on a quand même eu un
+<Sync time="1147.057"/>
+
+<Sync time="1147.951"/>
+un résultat
+<Sync time="1149.035"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to39" startTime="1151.555" endTime="1159.44">
+<Turn speaker="spk4" startTime="1151.555" endTime="1152.961">
+<Sync time="1151.555"/>
+quel est votre syndicat ?
+</Turn>
+<Turn speaker="spk1" startTime="1152.961" endTime="1159.44">
+<Sync time="1152.961"/>
+
+<Sync time="1155.904"/>
+Force Ouvrière
+<Sync time="1156.779"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to40" startTime="1159.44" endTime="1254.487">
+<Turn speaker="spk4" startTime="1159.44" endTime="1162.021">
+<Sync time="1159.44"/>
+est-ce que vous êtes actif ?
+<Sync time="1160.58"/>
+
+<Sync time="1161.127"/>
+dans votre syndicat ?
+</Turn>
+<Turn speaker="spk1" startTime="1162.021" endTime="1165.069">
+<Sync time="1162.021"/>
+
+<Sync time="1163.308"/>
+oui maintenant oui
+<Sync time="1164.417"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1165.069" endTime="1166.132">
+<Sync time="1165.069"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="1166.132" endTime="1169.935">
+<Sync time="1166.132"/>
+
+<Sync time="1167.982"/>
+parce que j'ai été élu par les camarades
+</Turn>
+<Turn speaker="spk4" startTime="1169.935" endTime="1181.909">
+<Sync time="1169.935"/>
+hm hm
+<Sync time="1170.095"/>
+
+<Sync time="1172.195"/>
+et
+<Sync time="1172.695"/>
+
+<Sync time="1173.482"/>
+après trente
+<Sync time="1174.216"/>
+trente-deux ans
+<Sync time="1175.379"/>
+
+<Sync time="1176.476"/>
+comment c'est se passé 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ on vous êtes élu par vos camarades
+<Sync time="1180.049"/>
+
+<Sync time="1180.27"/>
+qu'est ce qu'ils désirent de vous ?
+<Sync time="1181.645"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1181.909" endTime="1184.077">
+<Sync time="1181.909"/>
+ah ben comme représentant du personnel quoi
+</Turn>
+<Turn speaker="spk4" startTime="1184.077" endTime="1184.429">
+<Sync time="1184.077"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1184.429" endTime="1189.679">
+<Sync time="1184.429"/>
+ben quand y'a des discussions euh
+<Sync time="1186.394"/>
+
+<Sync time="1187.238"/>
+à avoir avec dans les commissions par exemple
+</Turn>
+<Turn speaker="spk4" startTime="1189.679" endTime="1195.058">
+<Sync time="1189.679"/>
+hm hm
+<Sync time="1190.776"/>
+
+<Sync time="1192.605"/>
+et qu'est-ce qu'il faut faire comme représentant ?
+</Turn>
+<Turn speaker="spk1" startTime="1195.058" endTime="1222.42">
+<Sync time="1195.058"/>
+
+<Sync time="1198.092"/>
+bien lorsqu'y a
+<Sync time="1199.575"/>
+ça dépend euh
+<Sync time="1200.966"/>
+
+<Sync time="1201.318"/>
+lorsqu'y a des euh une commission d'avancement par exemple euh
+<Sync time="1205.095"/>
+
+<Sync time="1205.924"/>
+euh si
+<Sync time="1207.409"/>
+si y'a euh
+<Sync time="1208.235"/>
+
+<Sync time="1208.574"/>
+un un cas flagrant où
+<Sync time="1211.543"/>
+
+<Sync time="1211.961"/>
+où
+<Sync time="1212.805"/>
+où un
+<Sync time="1213.868"/>
+un collègue par exemple est
+<Sync time="1215.361"/>
+
+<Sync time="1216.31"/>
+est injustement
+<Sync time="1217.949"/>
+mal noté
+<Sync time="1219.246"/>
+alors à ce moment-là on intervient en sa faveur
+<Sync time="1221.934"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1222.42" endTime="1223.321">
+<Sync time="1222.42"/>
+hm hm
+<Sync time="1223.125"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1223.321" endTime="1232.727">
+<Sync time="1223.321"/>
+ben une sorte de
+<Sync time="1224.876"/>
+
+<Sync time="1228.529"/>
+c'est pas un tribunal si vous voulez mais enfin c'est c'est
+<Sync time="1231.367"/>
+c'est la défense quoi en somme des
+</Turn>
+<Turn speaker="spk4" startTime="1232.727" endTime="1237.392">
+<Sync time="1232.727"/>
+hm hm
+<Sync time="1233.337"/>
+
+<Sync time="1234.759"/>
+vous avez
+<Sync time="1235.622"/>
+
+<Sync time="1236.052"/>
+beaucoup de cas comme ça ?
+<Sync time="1237.273"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1237.392" endTime="1245.414">
+<Sync time="1237.392"/>
+ah non
+<Sync time="1238.255"/>
+
+<Sync time="1240.239"/>
+non en général euh y'a très peu de réclamations alors
+<Sync time="1243.335"/>
+
+<Sync time="1244.079"/>
+en général y'a pas
+<Sync time="1245.126"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1245.414" endTime="1253.242">
+<Sync time="1245.414"/>
+hm hm
+<Sync time="1245.899"/>
+
+<Sync time="1248.062"/>
+alors
+<Sync time="1248.515"/>
+
+<Sync time="1250.475"/>
+on je vais changer le la les questions maintenant
+</Turn>
+<Turn speaker="spk4" startTime="1253.242" endTime="1254.487">
+<Sync time="1253.242"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to42" startTime="1254.487" endTime="1444.532">
+<Turn speaker="spk4" startTime="1254.487" endTime="1262.818">
+<Sync time="1254.487"/>
+un étranger veut venir en France pour apprendre le français
+<Sync time="1258.307"/>
+
+<Sync time="1259.928"/>
+dans quelle région est-ce qu'il doit aller d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="1262.818" endTime="1269.644">
+<Sync time="1262.818"/>
+
+<Sync time="1267.635"/>
+ben ça dépend quel étranger aussi
+<Sync time="1269.472"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1269.644" endTime="1274.524">
+<Sync time="1269.644"/>
+hm hm
+<Sync time="1270.269"/>
+
+<Sync time="1272.868"/>
+un Anglais disons
+<Sync time="1273.774"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1274.524" endTime="1285.437">
+<Sync time="1274.524"/>
+un Anglais
+<Sync time="1275.165"/>
+
+<Sync time="1277.399"/>
+ben vous savez
+<Sync time="1278.539"/>
+
+<Sync time="1283.695"/>
+bah ici c'est pas mal
+<Sync time="1284.929"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1285.437" endTime="1285.976">
+<Sync time="1285.437"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1285.976" endTime="1289.851">
+<Sync time="1285.976"/>
+ici c'est pas mal
+<Sync time="1286.905"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1289.851" endTime="1293.047">
+<Sync time="1289.851"/>
+est-ce qu'il y a des endroits qu'il devrait éviter ?
+</Turn>
+<Turn speaker="spk1" startTime="1293.047" endTime="1296.753">
+<Sync time="1293.047"/>
+
+<Sync time="1295.58"/>
+des endroits en France qu'il devrait
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1296.753" endTime="1297.926">
+<Sync time="1296.753"/>
+<Who nb="1"/>
+éviter
+<Who nb="2"/>
+oui en France oui
+</Turn>
+<Turn speaker="spk4" startTime="1297.926" endTime="1302.801">
+<Sync time="1297.926"/>
+
+<Sync time="1298.285"/>
+si il veut apprendre le le français
+<Sync time="1300.769"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1302.801" endTime="1311.038">
+<Sync time="1302.801"/>
+ah mais en principe euh
+<Sync time="1304.504"/>
+
+<Sync time="1305.238"/>
+les endroits où y'a un dialecte qui est très difficile à 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+<Sync time="1309.555"/>
+à assimiler
+<Sync time="1310.571"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1311.038" endTime="1312.194">
+<Sync time="1311.038"/>
+lesquels par exemple ?
+</Turn>
+<Turn speaker="spk1" startTime="1312.194" endTime="1316.6">
+<Sync time="1312.194"/>
+
+<Sync time="1312.708"/>
+oh hein euh
+<Sync time="1314.072"/>
+
+<Sync time="1314.382"/>
+la Bretagne par exemple l'Alsace
+<Sync time="1316.409"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1316.6" endTime="1317.194">
+<Sync time="1316.6"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1317.194" endTime="1326.13">
+<Sync time="1317.194"/>
+l'Alsace
+<Sync time="1317.716"/>
+
+<Sync time="1317.864"/>
+le
+<Sync time="1318.536"/>
+
+<Sync time="1321.064"/>
+euh la Catalogne aussi
+<Sync time="1322.728"/>
+
+<Sync time="1322.877"/>
+la Catalogne
+<Sync time="1323.716"/>
+
+<Sync time="1324.003"/>
+enfin partout où y'a un patois quoi
+</Turn>
+<Turn speaker="spk4" startTime="1326.13" endTime="1332.392">
+<Sync time="1326.13"/>
+un patois oui
+<Sync time="1327.136"/>
+
+<Sync time="1328.114"/>
+et pour bien apprendre le français quelles gens devrait-il fréquenter ?
+</Turn>
+<Turn speaker="spk1" startTime="1332.392" endTime="1333.151">
+<Sync time="1332.392"/>
+
+<Sync time="1332.745"/>
+quelles ?
+</Turn>
+<Turn speaker="spk4" startTime="1333.151" endTime="1333.807">
+<Sync time="1333.151"/>
+gens
+</Turn>
+<Turn speaker="spk1" startTime="1333.807" endTime="1343.875">
+<Sync time="1333.807"/>
+
+<Sync time="1340.322"/>
+moi je crois que
+<Sync time="1341.509"/>
+
+<Sync time="1342.349"/>
+oh la classe moyenne quoi
+</Turn>
+<Turn speaker="spk4" startTime="1343.875" endTime="1345.225">
+<Sync time="1343.875"/>
+hm hm
+<Sync time="1344.662"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="1345.225" endTime="1354.179">
+<Sync time="1345.225"/>
+
+<Sync time="1346.045"/>
+ben parce que vous avez
+<Sync time="1347.262"/>
+euh
+<Sync time="1347.744"/>
+vous avez
+<Sync time="1348.87"/>
+
+<Sync time="1349.304"/>
+en principe on apprend
+<Sync time="1350.783"/>
+
+<Sync time="1351.384"/>
+euh comment 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ vous a- vous apprenez le français c'est littéraire
+<Sync time="1354.136"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1354.179" endTime="1354.88">
+<Sync time="1354.179"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1354.88" endTime="1375.082">
+<Sync time="1354.88"/>
+mais si vous voulez euh parfaire le
+<Sync time="1357.263"/>
+
+<Sync time="1359.636"/>
+si vous voulez parfaire la langue il vaut mieux euh
+<Sync time="1362.202"/>
+
+<Sync time="1363.544"/>
+il vaut mieux fréquenter des des gens de classe moyenne quoi 
+<Sync time="1366.208"/>
+euh
+<Sync time="1367.092"/>
+vous
+<Sync time="1367.213"/>
+euh
+<Sync time="1368.357"/>
+vous apprenez
+<Sync time="1369.385"/>
+
+<Sync time="1369.971"/>
+vous apprenez en plus de ce qu'on apprend euh
+<Sync time="1372.324"/>
+
+<Sync time="1373.217"/>
+à l'école quoi enfin disons à 
+</Turn>
+<Turn speaker="spk4" startTime="1375.082" endTime="1375.505">
+<Sync time="1375.082"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1375.505" endTime="1384.821">
+<Sync time="1375.505"/>
+à l'université
+<Sync time="1376.645"/>
+
+<Sync time="1377.812"/>
+ce qu'on ce qu'on apprend euh on apprend en plus le
+<Sync time="1380.509"/>
+
+<Sync time="1381.091"/>
+le dialogue euh
+<Sync time="1382.281"/>
+
+<Sync time="1383.979"/>
+courant quoi
+<Sync time="1384.611"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1384.821" endTime="1390.081">
+<Sync time="1384.821"/>
+hm hm
+<Sync time="1385.337"/>
+
+<Sync time="1386.267"/>
+et est-ce qu'il y a des gens qu'il devrait
+<Sync time="1388.22"/>
+
+<Sync time="1388.499"/>
+éviter de fréquenter ?
+</Turn>
+<Turn speaker="spk1" startTime="1390.081" endTime="1397.154">
+<Sync time="1390.081"/>
+
+<Sync time="1394.596"/>
+oh eh c'est comme partout hein
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1397.154" endTime="1399.921">
+<Sync time="1397.154"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1399.921" endTime="1408.274">
+<Sync time="1399.921"/>
+
+<Sync time="1402.456"/>
+quelles sont d'après vous monsieur les difficultés de la langue française
+<Sync time="1406.855"/>
+
+<Sync time="1407.111"/>
+pour un étranger ?
+</Turn>
+<Turn speaker="spk1" startTime="1408.274" endTime="1413.319">
+<Sync time="1408.274"/>
+
+<Sync time="1411.617"/>
+là c'est le problème en sens inverse
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1413.319" endTime="1415.551">
+<Sync time="1413.319"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1415.551" endTime="1427.94">
+<Sync time="1415.551"/>
+
+<Sync time="1422.457"/>
+ce sont les
+<Sync time="1423.275"/>
+
+<Sync time="1423.787"/>
+à mon avis euh ce
+<Sync time="1424.926"/>
+euh ce sont les verbes irréguliers
+<Sync time="1427.54"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1427.94" endTime="1431.003">
+<Sync time="1427.94"/>
+hm hm
+<Sync time="1428.472"/>
+
+<Sync time="1430.456"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="1431.003" endTime="1436.395">
+<Sync time="1431.003"/>
+
+<Sync time="1432.38"/>
+ben parce que y'a tellement de tellement de formes euh différentes euh
+</Turn>
+<Turn speaker="spk4" startTime="1436.395" endTime="1438.877">
+<Sync time="1436.395"/>
+hm hm
+<Sync time="1436.994"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1438.877" endTime="1442.272">
+<Sync time="1438.877"/>
+à mon avis je pense que euh je pense que c'est ça je pense que c'est ça
+</Turn>
+<Turn speaker="spk4" startTime="1442.272" endTime="1444.532">
+<Sync time="1442.272"/>
+hm hm
+<Sync time="1442.663"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to43" startTime="1444.532" endTime="1499.077">
+<Turn speaker="spk4" startTime="1444.532" endTime="1446.689">
+<Sync time="1444.532"/>
+et est-ce qu'on parle bien à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="1446.689" endTime="1460.399">
+<Sync time="1446.689"/>
+
+<Sync time="1450.694"/>
+en principe on parle pas mal français oui mais
+<Sync time="1453.535"/>
+
+<Sync time="1453.861"/>
+euh comme partout ils ont des expressions euh typiquement orléanaises
+<Sync time="1460.19"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1460.399" endTime="1463.021">
+<Sync time="1460.399"/>
+hm hm
+<Sync time="1460.899"/>
+
+<Sync time="1461.678"/>
+euh lesquelles par exemple ?
+</Turn>
+<Turn speaker="spk1" startTime="1463.021" endTime="1471.983">
+<Sync time="1463.021"/>
+
+<Sync time="1467.886"/>
+c'est quoi donc ça ?
+<Sync time="1468.77"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1470.793"/>
+c'est quoi donc ça ?
+<Sync time="1471.699"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1471.983" endTime="1472.96">
+<Sync time="1471.983"/>
+hm hm
+<Sync time="1472.327"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1472.96" endTime="1477.814">
+<Sync time="1472.96"/>
+qu'est-ce on a y'en a bien des autres mais enfin ça me vient pas à l'idée hein ?
+<Sync time="1476.234"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1477.814" endTime="1479.117">
+<Sync time="1477.814"/>
+ben dis donc dis donc
+<Sync time="1478.977"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1479.117" endTime="1481.103">
+<Sync time="1479.117"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1479.494"/>
+ben dis donc dis donc ouais enfin ça 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1481.103" endTime="1483.149">
+<Sync time="1481.103"/>
+<Who nb="1"/>
+c'est
+<Who nb="2"/>
+oui enfin c'est oui
+</Turn>
+<Turn speaker="spk3" startTime="1483.149" endTime="1485.474">
+<Sync time="1483.149"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1485.474" endTime="1492.348">
+<Sync time="1485.474"/>
+oui y'a pas mal d'expressions comme ça qu'on avait pas l'habitude d'entendre et puis maintenant c'est
+<Sync time="1490.218"/>
+c'est fi- c'est familier maintenant 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1492.348" endTime="1493.38">
+<Sync time="1492.348"/>
+on les accepte
+<Sync time="1493.027"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1493.38" endTime="1499.077">
+<Sync time="1493.38"/>
+ah oui puis puis on les on les pratique même 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1497.333"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to44" startTime="1499.077" endTime="1524.045">
+<Turn speaker="spk4" startTime="1499.077" endTime="1502.658">
+<Sync time="1499.077"/>
+et est-ce que à votre avis le français est une langue difficile ?
+</Turn>
+<Turn speaker="spk1" startTime="1502.658" endTime="1520.288">
+<Sync time="1502.658"/>
+
+<Sync time="1503.802"/>
+j'ai toujours entendu dire euh
+<Sync time="1505.899"/>
+que c'était
+<Sync time="1507.411"/>
+
+<Sync time="1507.788"/>
+une des langues les plus difficile pour les étrangers pour euh
+<Sync time="1510.978"/>
+
+<Sync time="1511.141"/>
+pour apprendre le français
+<Sync time="1512.331"/>
+
+<Sync time="1513.959"/>
+j'ai toujours entendu dire ça mais enfin euh
+<Sync time="1516.261"/>
+
+<Sync time="1517.447"/>
+c'est difficile je peux
+<Sync time="1518.87"/>
+
+<Sync time="1518.986"/>
+je peux difficilement vous répondre hein ?
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1520.288" endTime="1521.823">
+<Sync time="1520.288"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1521.823" endTime="1524.045">
+<Sync time="1521.823"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to45" startTime="1524.045" endTime="1666.961">
+<Turn speaker="spk4" startTime="1524.045" endTime="1534.505">
+<Sync time="1524.045"/>
+alors quelqu'un est de passage à Orléans
+<Sync time="1527.341"/>
+
+<Sync time="1527.85"/>
+il vous demande ce qu'il pourrait faire pendant son séjour
+<Sync time="1531.429"/>
+
+<Sync time="1532.365"/>
+qu'est-ce que vous lui conseillez de faire ?
+</Turn>
+<Turn speaker="spk1" startTime="1534.505" endTime="1546.96">
+<Sync time="1534.505"/>
+
+<Sync time="1536.207"/>
+eh bien euh je l'enverrais au syndicat d'initiative
+<Sync time="1538.858"/>
+
+<Sync time="1541.165"/>
+y'a pas de doute parce qu'il il existe un syndicat d'initiative
+<Sync time="1544.588"/>
+
+<Sync time="1545.034"/>
+on peut très bien le renseigner là
+<Sync time="1546.662"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1546.96" endTime="1549.145">
+<Sync time="1546.96"/>
+hm hm
+<Sync time="1547.738"/>
+
+<Sync time="1548.606"/>
+et
+</Turn>
+<Turn speaker="spk1" startTime="1549.145" endTime="1562.659">
+<Sync time="1549.145"/>
+ah maintenant ça dépend euh qui est-ce si c'est un un vacancier si c'est un 
+<Sync time="1554.005"/>
+un étudiant si c'est un étudiant on l'envoie à l'université hein au au bureau universitaire
+<Sync time="1559.818"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1562.659" endTime="1572.725">
+<Sync time="1562.659"/>
+mais s'il est de passage à un temps où euh le syndicat d'initiative est fermé
+<Sync time="1567.077"/>
+
+<Sync time="1568.17"/>
+il vous demande ce qu'il peut faire
+<Sync time="1570.704"/>
+
+<Sync time="1572.053"/>
+à Orléans
+</Turn>
+<Turn speaker="spk1" startTime="1572.725" endTime="1586.683">
+<Sync time="1572.725"/>
+
+<Sync time="1575.262"/>
+ça dépend de ce qu'il veut faire aussi hein ? 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1578.865"/>
+ça
+<Sync time="1579.354"/>
+on peut toujours poser la question demander à condition qu'il parle le euh f- qu'on parle euh qu'on puisse s'entendre hein ?
+</Turn>
+<Turn speaker="spk4" startTime="1586.683" endTime="1587.362">
+<Sync time="1586.683"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1587.362" endTime="1598.597">
+<Sync time="1587.362"/>
+qu'on puisse se comprendre
+<Sync time="1588.721"/>
+
+<Sync time="1589.343"/>
+à c- ce moment-là ça dépend de ce qu'il veut faire si si il veut aller se promener si si il veut aller aux spectacles euh
+<Sync time="1597.039"/>
+peut toujours
+<Sync time="1597.451"/>
+
+<Sync time="1597.69"/>
+peut toujours renseigner
+</Turn>
+<Turn speaker="spk4" startTime="1598.597" endTime="1599.806">
+<Sync time="1598.597"/>
+hm hm
+<Sync time="1599.097"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1599.806" endTime="1606.735">
+<Sync time="1599.806"/>
+alors euh pour les questions de promenade
+<Sync time="1601.759"/>
+ben 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ c'est facile ça
+<Sync time="1603.875"/>
+
+<Sync time="1604.898"/>
+c'est pas ça qui manque dans la région
+</Turn>
+<Turn speaker="spk4" startTime="1606.735" endTime="1614.656">
+<Sync time="1606.735"/>
+hm hm
+<Sync time="1607.367"/>
+
+<Sync time="1609.084"/>
+mais est-ce qu'il y a quelque chose dans la région ou
+<Sync time="1611.693"/>
+
+<Sync time="1611.911"/>
+surtout à Orléans que vous 
+<Sync time="1613.432"/>
+pouvez recommander ?
+</Turn>
+<Turn speaker="spk1" startTime="1614.656" endTime="1629.854">
+<Sync time="1614.656"/>
+
+<Sync time="1616.777"/>
+oui enfin ça ça dépend des goûts des personnes aussi hein vous avez des des personnes qui
+<Sync time="1621.765"/>
+
+<Sync time="1622.025"/>
+qui aiment euh qui aiment les paysages d'autres qui aiment les musées d'autres qui aiment euh
+<Sync time="1626.473"/>
+
+<Sync time="1627.384"/>
+qui aiment visiter 
+<Sync time="1628.645"/>
+
+<Sync time="1628.966"/>
+les monuments
+</Turn>
+<Turn speaker="spk4" startTime="1629.854" endTime="1631.226">
+<Sync time="1629.854"/>
+hm hm
+<Sync time="1630.308"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1631.226" endTime="1636.248">
+<Sync time="1631.226"/>
+alors à ce moment-là on peut
+<Sync time="1633.109"/>
+
+<Sync time="1633.807"/>
+on peut toujours euh indiquer un itinéraire
+</Turn>
+<Turn speaker="spk4" startTime="1636.248" endTime="1638.062">
+<Sync time="1636.248"/>
+hm hm
+<Sync time="1636.952"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1638.062" endTime="1656.05">
+<Sync time="1638.062"/>
+ça ça dépend euh ce que la personne veut voir veut voir si on veut
+<Sync time="1641.666"/>
+si on arrive à se comprendre euh
+<Sync time="1643.503"/>
+
+<Sync time="1645.414"/>
+un Anglais qui parle le français qui me demanderait par exemple euh
+<Sync time="1648.437"/>
+
+<Sync time="1648.949"/>
+euh
+<Sync time="1649.884"/>
+
+<Sync time="1650.795"/>
+il est là pour quelques jours à Orléans euh
+<Sync time="1653.539"/>
+je lui dirais quand même bien ce qu'il préfère voir
+</Turn>
+<Turn speaker="spk4" startTime="1656.05" endTime="1657.143">
+<Sync time="1656.05"/>
+hm hm
+<Sync time="1656.644"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1657.143" endTime="1663.154">
+<Sync time="1657.143"/>
+à ce moment là je peux lui expliquer je peux toujours lui dire
+<Sync time="1659.894"/>
+
+<Sync time="1660.433"/>
+quand même depuis neuf ans que je suis là je commence à connaître la ville
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1663.154" endTime="1664.613">
+<Sync time="1663.154"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1664.613" endTime="1666.961">
+<Sync time="1664.613"/>
+
+<Sync time="1664.794"/>
+c'est ça oui
+<Sync time="1665.691"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to46" startTime="1666.961" endTime="1690.779">
+<Turn speaker="spk4" startTime="1666.961" endTime="1672.128">
+<Sync time="1666.961"/>
+alors quelqu'un frappe à la porte de cette pièce
+<Sync time="1670.402"/>
+
+<Sync time="1671.193"/>
+qu'est-ce que vous lui dites ?
+</Turn>
+<Turn speaker="spk1" startTime="1672.128" endTime="1677.113">
+<Sync time="1672.128"/>
+
+<Sync time="1675.899"/>
+quelqu'un n'importe qui ?
+</Turn>
+<Turn speaker="spk4" startTime="1677.113" endTime="1681.001">
+<Sync time="1677.113"/>
+n'importe qui
+<Sync time="1677.629"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1681.001" endTime="1688.426">
+<Sync time="1681.001"/>
+oh euh je
+<Sync time="1682.36"/>
+j'ouvre la porte et puis
+<Sync time="1684.062"/>
+
+<Sync time="1684.597"/>
+je lui demande vous désirez monsieur ou vous dé-
+<Sync time="1686.77"/>
+vous désirez madame
+<Sync time="1687.96"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1688.426" endTime="1690.779">
+<Sync time="1688.426"/>
+hm hm
+<Sync time="1688.973"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to47" startTime="1690.779" endTime="1780.596">
+<Turn speaker="spk4" startTime="1690.779" endTime="1696.765">
+<Sync time="1690.779"/>
+et vous invitez quelqu'un à prendre quelque chose à la maison
+<Sync time="1693.872"/>
+
+<Sync time="1694.9"/>
+qu'est-ce que vous lui dites pour l'inviter ?
+</Turn>
+<Turn speaker="spk1" startTime="1696.765" endTime="1707.326">
+<Sync time="1696.765"/>
+
+<Sync time="1704.512"/>
+j'ai pas tellement bien compris votre question là
+<Sync time="1706.698"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1707.326" endTime="1709.726">
+<Sync time="1707.326"/>
+si vous désirez inviter quelqu'un
+</Turn>
+<Turn speaker="spk1" startTime="1709.726" endTime="1710.367">
+<Sync time="1709.726"/>
+oui
+</Turn>
+<Turn speaker="spk4" startTime="1710.367" endTime="1718.757">
+<Sync time="1710.367"/>
+à prendre quelque chose à la maison
+<Sync time="1712.753"/>
+chez vous
+<Sync time="1713.347"/>
+
+<Sync time="1714.637"/>
+qu'est-ce que vous lui dites
+<Sync time="1716.246"/>
+pour l'inviter de de venir chez vous ?
+</Turn>
+<Turn speaker="spk1" startTime="1718.757" endTime="1730.439">
+<Sync time="1718.757"/>
+
+<Sync time="1721.361"/>
+je lui dis euh
+<Sync time="1721.873"/>
+
+<Sync time="1722.552"/>
+ça dépend qui euh si c'est ça dépend quelle personne évidemment mais venez donc prendre l'apéritif ou venez donc nous dire bonjour ou venez
+<Sync time="1730.113"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1730.439" endTime="1730.978">
+<Sync time="1730.439"/>
+c'est ça c'est
+</Turn>
+<Turn speaker="spk1" startTime="1730.978" endTime="1734.575">
+<Sync time="1730.978"/>
+ou passez 
+<Sync time="1732.245"/>
+passez nous voir ou vous voyez euh
+</Turn>
+<Turn speaker="spk4" startTime="1734.575" endTime="1736.533">
+<Sync time="1734.575"/>
+hm hm
+<Sync time="1735.091"/>
+
+<Sync time="1735.556"/>
+passez nous voir
+<Sync time="1736.3"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1736.533" endTime="1740.514">
+<Sync time="1736.533"/>
+oui
+<Sync time="1736.956"/>
+passez nous
+<Sync time="1737.421"/>
+passez
+<Sync time="1738.142"/>
+
+<Sync time="1738.421"/>
+oui passez donc à la maison quoi ça ça
+</Turn>
+<Turn speaker="spk4" startTime="1740.514" endTime="1741.239">
+<Sync time="1740.514"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1741.239" endTime="1744.076">
+<Sync time="1741.239"/>
+venez donc faire un tour à la maison
+<Event desc="pi" type="pronounce" extent="previous"/>
+ y'a beaucoup de
+</Turn>
+<Turn speaker="spk4" startTime="1744.076" endTime="1745.518">
+<Sync time="1744.076"/>
+y'a beaucoup de de
+</Turn>
+<Turn speaker="spk1" startTime="1745.518" endTime="1748.643">
+<Sync time="1745.518"/>
+beaucoup de
+<Sync time="1746.565"/>
+oui oui
+<Sync time="1747.476"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1748.643" endTime="1749.502">
+<Sync time="1748.643"/>
+alors ce je sais
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1749.502" endTime="1750.19">
+<Sync time="1749.502"/>
+<Who nb="1"/>
+que 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ou montez jusque
+</Turn>
+<Turn speaker="spk1" startTime="1750.19" endTime="1751.513">
+<Sync time="1750.19"/>
+chez moi ou
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1751.513" endTime="1752.226">
+<Sync time="1751.513"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1752.226" endTime="1754.029">
+<Sync time="1752.226"/>
+vous voyez hein y'a des tas de choses
+</Turn>
+<Turn speaker="spk4" startTime="1754.029" endTime="1758.05">
+<Sync time="1754.029"/>
+
+<Sync time="1754.964"/>
+alors ça dépend encore
+<Sync time="1756.488"/>
+
+<Sync time="1756.779"/>
+de la personne
+<Sync time="1757.497"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1758.05" endTime="1764.356">
+<Sync time="1758.05"/>
+oui aussi euh évidemment euh
+<Sync time="1760.125"/>
+
+<Sync time="1760.321"/>
+si c'est un ami ben
+<Sync time="1761.518"/>
+
+<Sync time="1762.424"/>
+je lui dit ben passe donc à la maison quoi euh
+</Turn>
+<Turn speaker="spk4" startTime="1764.356" endTime="1766.03">
+<Sync time="1764.356"/>
+hm hm
+<Sync time="1764.731"/>
+
+<Sync time="1765.386"/>
+hm
+<Sync time="1765.793"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1766.03" endTime="1769.846">
+<Sync time="1766.03"/>
+si c'est quelqu'un ben venez donc prendre le café euh mais 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1769.846" endTime="1770.638">
+<Sync time="1769.846"/>
+hm hm
+<Sync time="1770.361"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1770.638" endTime="1774.416">
+<Sync time="1770.638"/>
+venez nous voir ou
+<Sync time="1771.907"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1774.416" endTime="1780.596">
+<Sync time="1774.416"/>
+alors cette question peut-être va vous faire rire monsieur mais je la pose quand même
+<Sync time="1778.612"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to48" startTime="1780.596" endTime="1932.643">
+<Turn speaker="spk4" startTime="1780.596" endTime="1783.658">
+<Sync time="1780.596"/>
+comment est-ce qu'on fait une omelette chez vous ?
+</Turn>
+<Turn speaker="spk1" startTime="1783.658" endTime="1787.679">
+<Sync time="1783.658"/>
+
+<Sync time="1787.158"/>
+elle allait en 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1787.679" endTime="1789.732">
+<Sync time="1787.679"/>
+<Who nb="1"/>
+faire une
+<Who nb="2"/>
+ah c'est pourquoi je vous pose la question
+</Turn>
+<Turn speaker="spk4" startTime="1789.732" endTime="1790.93">
+<Sync time="1789.732"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1790.138"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1790.93" endTime="1794.884">
+<Sync time="1790.93"/>
+elle allait en faire une
+<Sync time="1792.27"/>
+
+<Sync time="1792.895"/>
+justement c'est ce qu'on va manger ce soir
+<Sync time="1794.724"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1794.884" endTime="1795.099">
+<Sync time="1794.884"/>
+ah
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1795.099" endTime="1797.04">
+<Sync time="1795.099"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+bon alors 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1797.04" endTime="1799.93">
+<Sync time="1797.04"/>
+à à allez y
+<Sync time="1798.237"/>
+
+<Sync time="1798.523"/>
+vous riez ?
+<Sync time="1798.882"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1799.93" endTime="1803.245">
+<Sync time="1799.93"/>
+alors euh hm moi je moi je suis pas très fort en cuisine
+</Turn>
+<Turn speaker="spk4" startTime="1803.245" endTime="1803.722">
+<Sync time="1803.245"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="1803.722" endTime="1805.778">
+<Sync time="1803.722"/>
+mais enfin je sais quand même faire une omelette
+<Sync time="1805.344"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1805.778" endTime="1806.303">
+<Sync time="1805.778"/>
+hm
+<Sync time="1806.122"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1806.303" endTime="1809.079">
+<Sync time="1806.303"/>
+on la peut la préparer de plusieurs façons
+<Sync time="1808.311"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1809.079" endTime="1811.678">
+<Sync time="1809.079"/>
+<Who nb="1"/>
+oui y'a plusieurs façons y'a plusieurs façons hein
+<Who nb="2"/>
+y'a des régions où comme
+<Event desc="pi" type="pronounce" extent="previous"/>
+ dans l'est ils la font pas au lard
+</Turn>
+<Turn speaker="spk3" startTime="1811.678" endTime="1812.756">
+<Sync time="1811.678"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1812.756" endTime="1814.244">
+<Sync time="1812.756"/>
+y'a plusieurs façons y'a
+</Turn>
+<Turn speaker="spk3" startTime="1814.244" endTime="1817.511">
+<Sync time="1814.244"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ qui la font sans lard avec des oignons
+<Sync time="1816.271"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1817.511" endTime="1826.583">
+<Sync time="1817.511"/>
+mais monsieur essayez de m'expliquer euh s'il vous plaît
+<Sync time="1821.136"/>
+comment
+<Sync time="1821.636"/>
+comment on fait une omelette ?
+<Sync time="1822.901"/>
+
+<Sync time="1823.669"/>
+parce que vous l'avez regardée madame s' plusieurs fois sans doute
+</Turn>
+<Turn speaker="spk1" startTime="1826.583" endTime="1829.946">
+<Sync time="1826.583"/>
+
+<Sync time="1827.942"/>
+ben non puis je m'en suis fait moi-même aussi hein ?
+</Turn>
+<Turn speaker="spk4" startTime="1829.946" endTime="1830.618">
+<Sync time="1829.946"/>
+ah bon ?
+<Sync time="1830.475"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1830.618" endTime="1832.55">
+<Sync time="1830.618"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+ça alors vous voyez
+</Turn>
+<Turn speaker="spk1" startTime="1832.55" endTime="1835.417">
+<Sync time="1832.55"/>
+ah ben c'est pas compliqué hein pour moi c'est pas compliqué
+<Sync time="1835.245"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1835.417" endTime="1836.333">
+<Sync time="1835.417"/>
+très bien
+<Sync time="1835.613"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1836.333" endTime="1857.867">
+<Sync time="1836.333"/>
+on casse les oeufs
+<Sync time="1837.63"/>
+
+<Sync time="1838.527"/>
+on
+<Sync time="1839.362"/>
+on on bat tout ensemble
+<Sync time="1840.941"/>
+
+<Sync time="1842.162"/>
+euh
+<Sync time="1843.121"/>
+on met un peu d'eau je crois
+<Sync time="1844.652"/>
+
+<Sync time="1844.962"/>
+on mélange un peu d'eau
+<Sync time="1846.345"/>
+enfin on assaisonne sel poivre euh
+<Sync time="1848.825"/>
+
+<Sync time="1851.747"/>
+nous en Lorraine on
+<Sync time="1853.183"/>
+
+<Sync time="1853.402"/>
+on on découpe des petits des petits morceaux de lards qu'on fait frire avant
+<Sync time="1857.576"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1857.867" endTime="1858.492">
+<Sync time="1857.867"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1858.492" endTime="1868.938">
+<Sync time="1858.492"/>
+et puis on
+<Sync time="1859.212"/>
+
+<Sync time="1859.403"/>
+enfin
+<Sync time="1859.909"/>
+
+<Sync time="1860.128"/>
+on on verse tout ça dans la
+<Sync time="1861.628"/>
+
+<Sync time="1862.489"/>
+dans la poêle
+<Sync time="1863.491"/>
+
+<Sync time="1863.806"/>
+et puis on tourne jusqu'à temps que ça soit
+<Sync time="1866.386"/>
+
+<Sync time="1868.079"/>
+à peu près cuit quoi
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1868.938" endTime="1869.825">
+<Sync time="1868.938"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk4" startTime="1869.825" endTime="1874.234">
+<Sync time="1869.825"/>
+
+<Sync time="1871.041"/>
+bon
+<Sync time="1871.447"/>
+
+<Sync time="1872.382"/>
+on sent déjà l'odeur de votre 
+<Sync time="1874.086"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="1874.234" endTime="1874.959">
+<Sync time="1874.234"/>
+<Who nb="1"/>
+omelette
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1874.959" endTime="1875.897">
+<Sync time="1874.959"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1875.897" endTime="1883.04">
+<Sync time="1875.897"/>
+seulement ici on ne la fait pas au lard parce qu'on ne trouve pas de de
+<Sync time="1879.681"/>
+
+<Sync time="1880.163"/>
+charcuterie comme en
+<Sync time="1881.146"/>
+
+<Sync time="1881.89"/>
+comme en Lorraine
+<Sync time="1882.701"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1883.04" endTime="1883.331">
+<Sync time="1883.04"/>
+non ?
+</Turn>
+<Turn speaker="spk1" startTime="1883.331" endTime="1886.765">
+<Sync time="1883.331"/>
+on trouve non euh la charcuterie ici c'est pas très fort
+<Sync time="1886.546"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1886.765" endTime="1888.077">
+<Sync time="1886.765"/>
+hm hm
+<Sync time="1887.39"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1888.077" endTime="1893.801">
+<Sync time="1888.077"/>
+là-bas on a que des des
+<Sync time="1889.293"/>
+
+<Sync time="1890.176"/>
+du lard fumé des des saucisses fumées vous savez ça
+<Sync time="1893.639"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1893.801" endTime="1894.063">
+<Sync time="1893.801"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1894.063" endTime="1895.552">
+<Sync time="1894.063"/>
+c'est pas du tout fait pareil ici
+</Turn>
+<Turn speaker="spk4" startTime="1895.552" endTime="1906.012">
+<Sync time="1895.552"/>
+hm hm
+<Sync time="1896.115"/>
+
+<Sync time="1896.943"/>
+enfin on mange euh on met des des épices aussi dedans euh on met un peu 
+<Sync time="1901.451"/>
+quelquefois de
+<Sync time="1902.624"/>
+
+<Sync time="1903.149"/>
+de l'ail des oignons tous ces
+<Sync time="1905.181"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1906.012" endTime="1908.253">
+<Sync time="1906.012"/>
+hm ça dépend
+<Sync time="1906.917"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1908.253" endTime="1909.808">
+<Sync time="1908.253"/>
+on la fait de plusieurs façon
+</Turn>
+<Turn speaker="spk4" startTime="1909.808" endTime="1922.873">
+<Sync time="1909.808"/>
+hm hm
+<Sync time="1910.308"/>
+
+<Sync time="1911.244"/>
+bon
+<Sync time="1911.603"/>
+
+<Sync time="1912.966"/>
+alors monsieur maintenant
+<Sync time="1914.259"/>
+euh je vais vous poser des questions
+<Sync time="1916.338"/>
+
+<Sync time="1917.316"/>
+euh et je vais essayer d'écrire euh des notes mais
+<Sync time="1920.321"/>
+oubliez que je que vous voyez que j'écris euh
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1922.873" endTime="1923.81">
+<Sync time="1922.873"/>
+<Who nb="1"/>
+mais
+<Who nb="2"/>
+je vais peut-être vous mettre de la
+</Turn>
+<Turn speaker="spk3" startTime="1923.81" endTime="1924.349">
+<Sync time="1923.81"/>
+lumière monsieur
+</Turn>
+<Turn speaker="spk1" startTime="1924.349" endTime="1925.689">
+<Sync time="1924.349"/>
+oui
+<Sync time="1924.724"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1925.689" endTime="1928.823">
+<Sync time="1925.689"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="1926.214"/>
+
+<Sync time="1926.505"/>
+I'm asking their now the questionnaire
+</Turn>
+<Turn speaker="spk4" startTime="1928.823" endTime="1932.643">
+<Sync time="1928.823"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to50" startTime="1932.643" endTime="2071.112">
+<Turn speaker="spk4" startTime="1932.643" endTime="1935.6">
+<Sync time="1932.643"/>
+alors monsieur est-ce qu'il y a u- un dictionnaire chez vous ?
+</Turn>
+<Turn speaker="spk1" startTime="1935.6" endTime="1937.942">
+<Sync time="1935.6"/>
+
+<Sync time="1936.201"/>
+j'ai un dictionnaire français oui
+<Sync time="1937.727"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1937.942" endTime="1938.926">
+<Sync time="1937.942"/>
+lequel ?
+</Turn>
+<Turn speaker="spk1" startTime="1938.926" endTime="1940.885">
+<Sync time="1938.926"/>
+
+<Sync time="1939.23"/>
+Larousse
+<Sync time="1939.879"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1940.885" endTime="1944.105">
+<Sync time="1940.885"/>
+euh
+<Sync time="1941.505"/>
+
+<Sync time="1942.459"/>
+en combien de volumes ?
+</Turn>
+<Turn speaker="spk1" startTime="1944.105" endTime="1945.14">
+<Sync time="1944.105"/>
+oh un seul
+<Sync time="1945.016"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="1945.14" endTime="1946.237">
+<Sync time="1945.14"/>
+<Who nb="1"/>
+c'est le
+<Who nb="2"/>
+c'est le petit Larousse ?
+</Turn>
+<Turn speaker="spk1" startTime="1946.237" endTime="1947.029">
+<Sync time="1946.237"/>
+le petit Larousse
+</Turn>
+<Turn speaker="spk4" startTime="1947.029" endTime="1950.311">
+<Sync time="1947.029"/>
+le petit Larousse
+<Sync time="1947.845"/>
+
+<Sync time="1948.351"/>
+où gardez-vous ce dictionnaire ?
+</Turn>
+<Turn speaker="spk1" startTime="1950.311" endTime="1955.081">
+<Sync time="1950.311"/>
+
+<Sync time="1951.599"/>
+dans dans le secrétaire dans une armoire secrétaire
+<Sync time="1954.651"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1955.081" endTime="1955.519">
+<Sync time="1955.081"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1955.519" endTime="1960.561">
+<Sync time="1955.519"/>
+avec euh avec les autres euh livres d'ailleurs de lecture
+<Sync time="1958.958"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1960.561" endTime="1962.426">
+<Sync time="1960.561"/>
+et vous vous l'avez depuis quand ?
+</Turn>
+<Turn speaker="spk1" startTime="1962.426" endTime="1974.979">
+<Sync time="1962.426"/>
+
+<Sync time="1966.771"/>
+oh ben j'en ai toujours eu un à Nancy je comme j'étais à Nancy j'en avais un mais je l'ai laissé là-bas j'en ai racheté un autre arrivé ici j'en ai toujours eu un
+<Sync time="1974.788"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="1974.979" endTime="1977.321">
+<Sync time="1974.979"/>
+hm hm
+<Sync time="1975.342"/>
+
+<Sync time="1975.385"/>
+et vous l'avez acheté toujours ?
+</Turn>
+<Turn speaker="spk1" startTime="1977.321" endTime="1980.593">
+<Sync time="1977.321"/>
+
+<Sync time="1978.299"/>
+celui-là oui m'enfin l'autre venait de mon père
+</Turn>
+<Turn speaker="spk4" startTime="1980.593" endTime="1982.31">
+<Sync time="1980.593"/>
+ah c'est que c'était comme héritage
+</Turn>
+<Turn speaker="spk1" startTime="1982.31" endTime="1985.196">
+<Sync time="1982.31"/>
+oui oui
+<Sync time="1982.857"/>
+
+<Sync time="1983.264"/>
+en en deux volumes alors deux gros volumes
+</Turn>
+<Turn speaker="spk4" startTime="1985.196" endTime="1987.156">
+<Sync time="1985.196"/>
+ah
+<Sync time="1985.681"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1987.156" endTime="1989.04">
+<Sync time="1987.156"/>
+je les ai je les ai laissés aux enfants d'ailleurs
+</Turn>
+<Turn speaker="spk4" startTime="1989.04" endTime="1995.384">
+<Sync time="1989.04"/>
+hm hm
+<Sync time="1989.556"/>
+
+<Sync time="1992.76"/>
+et qui en s'en sert le plus souvent ?
+</Turn>
+<Turn speaker="spk1" startTime="1995.384" endTime="2007.057">
+<Sync time="1995.384"/>
+
+<Sync time="2000.625"/>
+bah ça dépend ce qu'on fait euh
+<Sync time="2002.927"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2007.057" endTime="2009.041">
+<Sync time="2007.057"/>
+quelquefois j'en ai besoin 
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2009.041" endTime="2012.533">
+<Sync time="2009.041"/>
+oui euh oh savez
+<Sync time="2010.691"/>
+
+<Sync time="2010.954"/>
+autant l'un que l'autre vous savez
+<Sync time="2012.294"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2012.533" endTime="2013.897">
+<Sync time="2012.533"/>
+oui
+<Sync time="2013.174"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2013.897" endTime="2020.731">
+<Sync time="2013.897"/>
+et
+<Sync time="2014.517"/>
+
+<Sync time="2014.803"/>
+est-ce que vous pouvez dire combien de fois disons par semaine ou par mois vous
+<Sync time="2019.048"/>
+
+<Sync time="2019.716"/>
+vous vous en servez ?
+</Turn>
+<Turn speaker="spk1" startTime="2020.731" endTime="2025.449">
+<Sync time="2020.731"/>
+
+<Sync time="2023.608"/>
+deux ou trois fois par mois pas plus hein ?
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2025.449" endTime="2026.284">
+<Sync time="2025.449"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk4" startTime="2026.284" endTime="2029.741">
+<Sync time="2026.284"/>
+
+<Sync time="2027.028"/>
+et quand l'avez-vous regardé pour la der- dernière fois ?
+</Turn>
+<Turn speaker="spk1" startTime="2029.741" endTime="2034.063">
+<Sync time="2029.741"/>
+
+<Sync time="2029.985"/>
+la dernière fois c'est pas vieux tiens c'est la semaine dernière
+<Sync time="2033.133"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2034.063" endTime="2035.268">
+<Sync time="2034.063"/>
+et pour
+<Sync time="2034.616"/>
+
+<Sync time="2034.831"/>
+quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2035.268" endTime="2045.405">
+<Sync time="2035.268"/>
+ah je euh
+<Sync time="2037.077"/>
+
+<Sync time="2038.484"/>
+c'était pour euh retrouver un mot
+<Sync time="2040.678"/>
+
+<Sync time="2041.728"/>
+avoir la définition d'un mot que j'avais entendu et que je ne connaissais pas
+<Sync time="2045.238"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2045.405" endTime="2053.332">
+<Sync time="2045.405"/>
+hm hm
+<Sync time="2046.073"/>
+
+<Sync time="2047.056"/>
+et
+<Sync time="2047.431"/>
+quel genre de chose y cherchez-vous le plus souvent l'orthographe ou le sens ou
+<Sync time="2052.88"/>
+quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2053.332" endTime="2059.566">
+<Sync time="2053.332"/>
+
+<Sync time="2055.817"/>
+l'orthographe assez assez rarement parce que je suis assez fort en orthographe
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2059.566" endTime="2060.299">
+<Sync time="2059.566"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2060.299" endTime="2065.398">
+<Sync time="2060.299"/>
+euh s- si ça m'arrive quand même
+<Sync time="2063.601"/>
+mais enfin c'est plutôt le sens
+</Turn>
+<Turn speaker="spk4" startTime="2065.398" endTime="2066.07">
+<Sync time="2065.398"/>
+le sens
+</Turn>
+<Turn speaker="spk1" startTime="2066.07" endTime="2066.929">
+<Sync time="2066.07"/>
+le plutôt le sens oui
+</Turn>
+<Turn speaker="spk4" startTime="2066.929" endTime="2071.112">
+<Sync time="2066.929"/>
+bon
+<Sync time="2067.367"/>
+
+<Sync time="2068.145"/>
+bon
+<Sync time="2068.348"/>
+
+<Sync time="2068.622"/>
+merci
+<Sync time="2069.366"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to51" startTime="2071.112" endTime="2091.884">
+<Turn speaker="spk4" startTime="2071.112" endTime="2079.44">
+<Sync time="2071.112"/>
+et possédez-vous un livre euh sur euh mm l'art de parler ou l'art d'écrire ou les difficultés de la langue française ?
+</Turn>
+<Turn speaker="spk1" startTime="2079.44" endTime="2081.753">
+<Sync time="2079.44"/>
+
+<Sync time="2080.627"/>
+non
+<Sync time="2081.152"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2081.753" endTime="2086.408">
+<Sync time="2081.753"/>
+non
+<Sync time="2082.034"/>
+
+<Sync time="2083.637"/>
+guide de politesse ou de savoir-faire ?
+</Turn>
+<Turn speaker="spk1" startTime="2086.408" endTime="2088.75">
+<Sync time="2086.408"/>
+
+<Sync time="2087.982"/>
+non plus
+</Turn>
+<Turn speaker="spk4" startTime="2088.75" endTime="2091.884">
+<Sync time="2088.75"/>
+hm
+<Sync time="2089.046"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to52" startTime="2091.884" endTime="2109.188">
+<Turn speaker="spk4" startTime="2091.884" endTime="2095.566">
+<Sync time="2091.884"/>
+le journal que vous lisez habituellement
+<Sync time="2094.703"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2095.566" endTime="2098.237">
+<Sync time="2095.566"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+contient-il une rubrique sur le langage ?
+</Turn>
+<Turn speaker="spk1" startTime="2098.237" endTime="2107.681">
+<Sync time="2098.237"/>
+
+<Sync time="2102.744"/>
+non je pense pas non non non c'est le quotidien lorrain d'ailleurs que je reçois je suis abonné
+</Turn>
+<Turn speaker="spk4" startTime="2107.681" endTime="2109.188">
+<Sync time="2107.681"/>
+hm hm
+<Sync time="2108.196"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to53" startTime="2109.188" endTime="2124.045">
+<Turn speaker="spk4" startTime="2109.188" endTime="2110.641">
+<Sync time="2109.188"/>
+et faites-vous des mots croisés ?
+</Turn>
+<Turn speaker="spk1" startTime="2110.641" endTime="2113.099">
+<Sync time="2110.641"/>
+
+<Sync time="2111.525"/>
+ah non
+<Sync time="2111.978"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2113.099" endTime="2113.568">
+<Sync time="2113.099"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2113.568" endTime="2116.038">
+<Sync time="2113.568"/>
+
+<Sync time="2114.125"/>
+ben euh ça ne m'a jamais passionné
+</Turn>
+<Turn speaker="spk4" startTime="2116.038" endTime="2117.569">
+<Sync time="2116.038"/>
+hm hm
+<Sync time="2116.553"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2117.569" endTime="2120.598">
+<Sync time="2117.569"/>
+mon père aimait ça lui il en faisait toute la journée mais
+<Sync time="2120.311"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2120.598" endTime="2122.633">
+<Sync time="2120.598"/>
+hm hm
+<Sync time="2120.911"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2122.633" endTime="2124.045">
+<Sync time="2122.633"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to54" startTime="2124.045" endTime="2190.584">
+<Turn speaker="spk1 spk4" startTime="2124.045" endTime="2126.792">
+<Sync time="2124.045"/>
+<Who nb="1"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+et que pensez-vous du franglais ?
+</Turn>
+<Turn speaker="spk1" startTime="2126.792" endTime="2132.688">
+<Sync time="2126.792"/>
+
+<Sync time="2129.988"/>
+les mots anglais introduits dans la langue française ?
+</Turn>
+<Turn speaker="spk4" startTime="2132.688" endTime="2133.074">
+<Sync time="2132.688"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2133.074" endTime="2143.138">
+<Sync time="2133.074"/>
+bah vous savez
+<Sync time="2134.314"/>
+
+<Sync time="2136.699"/>
+on a tellement l'habitude maintenant que
+<Sync time="2138.98"/>
+
+<Sync time="2140.753"/>
+on y fait pas attention hein ?
+<Sync time="2142.19"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2143.138" endTime="2145.551">
+<Sync time="2143.138"/>
+alors vous n'êtes vous êtes pour ou contre ?
+</Turn>
+<Turn speaker="spk1" startTime="2145.551" endTime="2147.896">
+<Sync time="2145.551"/>
+
+<Sync time="2145.817"/>
+oh vous savez moi je suis pas contre euh
+</Turn>
+<Turn speaker="spk4" startTime="2147.896" endTime="2155.108">
+<Sync time="2147.896"/>
+hm hm
+<Sync time="2148.271"/>
+
+<Sync time="2152.523"/>
+et vous vous acceptez ces mots comme
+<Sync time="2154.865"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2155.108" endTime="2156.973">
+<Sync time="2155.108"/>
+oh oui moi je euh
+<Sync time="2156.611"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2156.973" endTime="2157.922">
+<Sync time="2156.973"/>
+<Who nb="1"/>
+comme par exemple 
+<Who nb="2"/>
+par exemple
+</Turn>
+<Turn speaker="spk1" startTime="2157.922" endTime="2160.035">
+<Sync time="2157.922"/>
+dans un match de de football
+</Turn>
+<Turn speaker="spk4" startTime="2160.035" endTime="2160.457">
+<Sync time="2160.035"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2160.457" endTime="2168.029">
+<Sync time="2160.457"/>
+ben euh y'a y'a bien des mots anglais on a l'habitude de on sait ce que c'est quoi le le goal le
+<Sync time="2166.335"/>
+enfin tout des choses comme ça
+</Turn>
+<Turn speaker="spk4" startTime="2168.029" endTime="2171.568">
+<Sync time="2168.029"/>
+hm hm
+<Sync time="2168.686"/>
+
+<Sync time="2169.107"/>
+et les les autres mots à part des sports
+<Sync time="2171.377"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2171.568" endTime="2180.301">
+<Sync time="2171.568"/>
+à part les sports
+<Sync time="2172.617"/>
+
+<Sync time="2175.026"/>
+ben y'a des y'a certains mots on se demande ce que c'est quoi euh mais on fint par s'y habituer quoi
+</Turn>
+<Turn speaker="spk4" startTime="2180.301" endTime="2180.969">
+<Sync time="2180.301"/>
+hm hm
+<Sync time="2180.817"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2180.969" endTime="2190.584">
+<Sync time="2180.969"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2181.594"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to55" startTime="2190.584" endTime="2235.683">
+<Turn speaker="spk4" startTime="2190.584" endTime="2198.564">
+<Sync time="2190.584"/>
+y a-t-il des différence selon vous dans la façon de parler français
+<Sync time="2194.567"/>
+
+<Sync time="2194.739"/>
+entre les gens
+<Sync time="2195.817"/>
+
+<Sync time="2196.036"/>
+appartenant à des milieux sociaux différents ?
+</Turn>
+<Turn speaker="spk1" startTime="2198.564" endTime="2202.237">
+<Sync time="2198.564"/>
+
+<Sync time="2200.09"/>
+oui maintenant
+<Sync time="2201.011"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2202.237" endTime="2208.232">
+<Sync time="2202.237"/>
+ces différences sont-elles très importantes ou
+<Sync time="2205.986"/>
+
+<Sync time="2206.658"/>
+très grandes ou grandes ?
+</Turn>
+<Turn speaker="spk1" startTime="2208.232" endTime="2216.212">
+<Sync time="2208.232"/>
+non
+<Sync time="2208.733"/>
+
+<Sync time="2209.019"/>
+non
+<Sync time="2209.41"/>
+
+<Sync time="2209.973"/>
+mais on
+<Sync time="2211.301"/>
+
+<Sync time="2211.738"/>
+on reconnaît quand même quelqu'un qui est
+<Sync time="2213.937"/>
+
+<Sync time="2214.228"/>
+qui a une certaine culture
+<Sync time="2215.568"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2216.212" endTime="2217.195">
+<Sync time="2216.212"/>
+hm hm
+<Sync time="2216.57"/>
+comment cela ?
+</Turn>
+<Turn speaker="spk1" startTime="2217.195" endTime="2225.299">
+<Sync time="2217.195"/>
+
+<Sync time="2218.297"/>
+oh par le
+<Sync time="2219.399"/>
+
+<Sync time="2219.734"/>
+euh par le vocabulaire qui est
+<Sync time="2221.645"/>
+
+<Sync time="2222.409"/>
+euh qui est beaucoup plus complet hein ça c'est normal
+</Turn>
+<Turn speaker="spk4" startTime="2225.299" endTime="2229.812">
+<Sync time="2225.299"/>
+hm hm
+<Sync time="2225.877"/>
+
+<Sync time="2226.897"/>
+d'un vocabulaire
+<Sync time="2227.899"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2229.812" endTime="2234.167">
+<Sync time="2229.812"/>
+il possède beaucoup plus de
+<Sync time="2231.677"/>
+
+<Sync time="2233.375"/>
+de mots quoi
+</Turn>
+<Turn speaker="spk4" startTime="2234.167" endTime="2235.683">
+<Sync time="2234.167"/>
+hm hm
+<Sync time="2234.605"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to56" startTime="2235.683" endTime="2252.141">
+<Turn speaker="spk4" startTime="2235.683" endTime="2240.011">
+<Sync time="2235.683"/>
+et selon vous les gens parlent-ils de mieux en mieux ou de plus en plus mal ?
+</Turn>
+<Turn speaker="spk1" startTime="2240.011" endTime="2248.887">
+<Sync time="2240.011"/>
+
+<Sync time="2245.906"/>
+je vois pas la différence vous savez 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2248.41"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2248.887" endTime="2252.141">
+<Sync time="2248.887"/>
+sans changement
+<Sync time="2249.856"/>
+
+<Sync time="2251.229"/>
+et
+<Sync time="2251.635"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to57" startTime="2252.141" endTime="2306.248">
+<Turn speaker="spk4" startTime="2252.141" endTime="2267.19">
+<Sync time="2252.141"/>
+parmi vos connaissances
+<Sync time="2253.781"/>
+
+<Sync time="2254.764"/>
+quelle est la personne qui parle le mieux le français ?
+<Sync time="2257.905"/>
+
+<Sync time="2263.449"/>
+euh c'est-à-dire quelle profession ?
+<Sync time="2265.548"/>
+
+<Sync time="2266.721"/>
+par exemple
+</Turn>
+<Turn speaker="spk1" startTime="2267.19" endTime="2293.36">
+<Sync time="2267.19"/>
+
+<Sync time="2276.88"/>
+on en revient on en revient à l'histoire de
+<Sync time="2279.575"/>
+
+<Sync time="2280.028"/>
+euh des gens cultivés ou pas hein ?
+<Sync time="2282.365"/>
+
+<Sync time="2282.866"/>
+euh je j'ai notre receveur principal par exemple euh il
+<Sync time="2286.758"/>
+
+<Sync time="2287.55"/>
+parle très bien euh et puis
+<Sync time="2289.963"/>
+
+<Sync time="2291.342"/>
+ainsi de suite quoi euh
+<Sync time="2292.745"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2293.36" endTime="2294.324">
+<Sync time="2293.36"/>
+hm hm
+<Sync time="2293.842"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2294.324" endTime="2299.122">
+<Sync time="2294.324"/>
+tu sais tout ça ça dépend de l'instruction qu'on a eue
+<Sync time="2296.904"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2299.122" endTime="2299.456">
+<Sync time="2299.122"/>
+et vous euh
+</Turn>
+<Turn speaker="spk1" startTime="2299.456" endTime="2301.059">
+<Sync time="2299.456"/>
+c'est difficile à définir ça
+</Turn>
+<Turn speaker="spk4" startTime="2301.059" endTime="2306.248">
+<Sync time="2301.059"/>
+hm hm
+<Sync time="2301.466"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to58" startTime="2306.248" endTime="2347.058">
+<Turn speaker="spk4" startTime="2306.248" endTime="2315.669">
+<Sync time="2306.248"/>
+y a-t-il en France un organisme
+<Sync time="2308.948"/>
+
+<Sync time="2309.12"/>
+officiel
+<Sync time="2310.103"/>
+
+<Sync time="2310.275"/>
+qui décide si un mot ou une expression fait partie ou non du bon français ?
+</Turn>
+<Turn speaker="spk1" startTime="2315.669" endTime="2318.436">
+<Sync time="2315.669"/>
+ah ben c'est l'Académie oui
+<Sync time="2317.076"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2318.436" endTime="2320.497">
+<Sync time="2318.436"/>
+et est-ce que vous croyez que c'est
+<Sync time="2319.514"/>
+
+<Sync time="2319.733"/>
+utile ?
+</Turn>
+<Turn speaker="spk1" startTime="2320.497" endTime="2332.017">
+<Sync time="2320.497"/>
+
+<Sync time="2325.041"/>
+ben il faut quand même bien quelqu'un qui
+<Sync time="2327.02"/>
+
+<Sync time="2327.712"/>
+qui qui
+<Sync time="2329.241"/>
+
+<Sync time="2329.723"/>
+qui officialise en somme
+<Sync time="2331.223"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2332.017" endTime="2332.689">
+<Sync time="2332.017"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2332.689" endTime="2340.617">
+<Sync time="2332.689"/>
+un mot euh
+<Sync time="2334.216"/>
+
+<Sync time="2334.602"/>
+et qui apcet- et qui accepte un mot ou il l'accepte pas quoi eh
+<Sync time="2338.537"/>
+pour euh faut bien fabriquer le dictionnaire
+<Sync time="2340.493"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2340.617" endTime="2342.679">
+<Sync time="2340.617"/>
+hm hm
+<Sync time="2341.148"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2342.679" endTime="2344.282">
+<Sync time="2342.679"/>
+il faut quand même quelqu'un quoi
+<Sync time="2343.943"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2344.282" endTime="2347.058">
+<Sync time="2344.282"/>
+hm hm
+<Sync time="2344.907"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to59" startTime="2347.058" endTime="2419.603">
+<Turn speaker="spk4" startTime="2347.058" endTime="2359.927">
+<Sync time="2347.058"/>
+seriez-vous favorable à un contrôle des journalistes
+<Sync time="2350.731"/>
+
+<Sync time="2350.927"/>
+ou des speakers à la de la télévision de la radio
+<Sync time="2354.509"/>
+
+<Sync time="2355.205"/>
+euh de des professeurs même
+<Sync time="2357.733"/>
+
+<Sync time="2357.9"/>
+
+<Event desc="pi" type="pronounce" extent="previous"/>
+ de leur façon de parler français ?
+</Turn>
+<Turn speaker="spk1" startTime="2359.927" endTime="2384.991">
+<Sync time="2359.927"/>
+
+<Sync time="2365.412"/>
+oui parce que euh j'estime que euh ces gens-là euh
+<Sync time="2368.369"/>
+
+<Sync time="2370.992"/>
+normalement devraient
+<Sync time="2372.995"/>
+
+<Sync time="2374.021"/>
+devraient parler un français pur quoi
+<Sync time="2376.029"/>
+
+<Sync time="2376.988"/>
+c'est quand même le
+<Sync time="2377.804"/>
+
+<Sync time="2379.565"/>
+surtout dans le dans l'information
+<Sync time="2381.604"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2384.991" endTime="2388.241">
+<Sync time="2384.991"/>
+et comment devrait-on exercer ce contrôle ?
+</Turn>
+<Turn speaker="spk1" startTime="2388.241" endTime="2411.113">
+<Sync time="2388.241"/>
+
+<Sync time="2395.775"/>
+moi je vois pas euh
+<Sync time="2397.072"/>
+si évidemment y'a
+<Sync time="2398.594"/>
+
+<Sync time="2401.222"/>
+y'aurait des tests
+<Sync time="2402.113"/>
+par des tests quoi euh
+<Sync time="2404.145"/>
+
+<Sync time="2405.962"/>
+devant devant des groupes de de professeurs euh de français quoi
+<Sync time="2410.803"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2411.113" endTime="2419.603">
+<Sync time="2411.113"/>
+hm hm
+<Sync time="2411.733"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to60" startTime="2419.603" endTime="2485.639">
+<Turn speaker="spk4" startTime="2419.603" endTime="2433.505">
+<Sync time="2419.603"/>
+et aujourd'hui
+<Sync time="2420.824"/>
+
+<Sync time="2420.924"/>
+à votre avis
+<Sync time="2422.14"/>
+
+<Sync time="2422.975"/>
+l'orthographe et la correction de la langue
+<Sync time="2425.741"/>
+
+<Sync time="2425.956"/>
+sont-ils enseignés aussi bien
+<Sync time="2428.612"/>
+
+<Sync time="2428.855"/>
+ou
+<Sync time="2429.512"/>
+
+<Sync time="2430.238"/>
+mieux ou moins bien que du temps ou vous étiez vous-même à 
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2433.505" endTime="2434.316">
+<Sync time="2433.505"/>
+<Who nb="1"/>
+l'école ?
+<Who nb="2"/>
+moins bien
+</Turn>
+<Turn speaker="spk1" startTime="2434.316" endTime="2437.784">
+<Sync time="2434.316"/>
+
+<Sync time="2434.774"/>
+nettement
+<Sync time="2435.208"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2437.784" endTime="2440.15">
+<Sync time="2437.784"/>
+c'est-à-dire l'orthographe et la correction non ?
+</Turn>
+<Turn speaker="spk1" startTime="2440.15" endTime="2445.626">
+<Sync time="2440.15"/>
+
+<Sync time="2440.942"/>
+euh la correction le l'orthographe et la correction de l'orthographe ?
+<Sync time="2445.192"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2445.626" endTime="2446.984">
+<Sync time="2445.626"/>
+le la correction de
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2446.984" endTime="2448.953">
+<Sync time="2446.984"/>
+<Who nb="1"/>
+de langue de français oui
+<Who nb="2"/>
+de de français de la langue de 
+</Turn>
+<Turn speaker="spk1" startTime="2448.953" endTime="2450.39">
+<Sync time="2448.953"/>
+le français quoi enfin euh
+</Turn>
+<Turn speaker="spk4" startTime="2450.39" endTime="2458.432">
+<Sync time="2450.39"/>
+hm
+<Sync time="2450.705"/>
+
+<Sync time="2454.187"/>
+bah
+<Sync time="2454.932"/>
+
+<Sync time="2456.153"/>
+au point de vue correction non c'est toujours 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2458.432" endTime="2460.116">
+<Sync time="2458.432"/>
+<Who nb="1"/>
+pareil hein euh ça
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2460.116" endTime="2470.337">
+<Sync time="2460.116"/>
+
+<Sync time="2460.951"/>
+mais je trouve que
+<Sync time="2463.193"/>
+
+<Sync time="2463.675"/>
+dans l'enseignement
+<Sync time="2464.92"/>
+
+<Sync time="2466.403"/>
+on n'y attache moins d'importance qu'avant
+<Sync time="2467.93"/>
+c'est mon c'est mon avis hein c'est pas
+<Sync time="2470.07"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2470.337" endTime="2472.178">
+<Sync time="2470.337"/>
+et vous
+<Sync time="2470.599"/>
+
+<Sync time="2470.981"/>
+comment expliquez-vous ça ?
+</Turn>
+<Turn speaker="spk1" startTime="2472.178" endTime="2474.287">
+<Sync time="2472.178"/>
+
+<Sync time="2473.037"/>
+oh ben ça je ne sais pas
+<Sync time="2474.115"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2474.287" endTime="2476.223">
+<Sync time="2474.287"/>
+hm
+<Sync time="2474.615"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2476.223" endTime="2479.991">
+<Sync time="2476.223"/>
+c'est le
+<Sync time="2476.958"/>
+
+<Sync time="2477.487"/>
+les programmes pédagogiques qui ont changé certainement
+</Turn>
+<Turn speaker="spk4" startTime="2479.991" endTime="2485.639">
+<Sync time="2479.991"/>
+hm hm
+<Sync time="2480.397"/>
+
+<Sync time="2481.618"/>
+hm hm
+<Sync time="2482.1"/>
+les les programmes ont changé
+<Sync time="2483.655"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to61" startTime="2485.639" endTime="2511.968">
+<Turn speaker="spk4" startTime="2485.639" endTime="2491.124">
+<Sync time="2485.639"/>
+et dans quelle matière éti- étiez-vous le plus fort à à à l'é- à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="2491.124" endTime="2496.576">
+<Sync time="2491.124"/>
+
+<Sync time="2491.391"/>
+en mathématiques
+<Sync time="2492.846"/>
+
+<Sync time="2495.188"/>
+en dessin
+<Sync time="2496.079"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2496.576" endTime="2499.395">
+<Sync time="2496.576"/>
+hm
+<Sync time="2496.982"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2499.395" endTime="2504.88">
+<Sync time="2499.395"/>
+et en allemand
+<Sync time="2500.206"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2504.88" endTime="2505.605">
+<Sync time="2504.88"/>
+<Who nb="1"/>
+parce que dans l'Est 
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2505.605" endTime="2508.481">
+<Sync time="2505.605"/>
+on apprend surtout l'allemand là-bas comme deuxième langue
+</Turn>
+<Turn speaker="spk4" startTime="2508.481" endTime="2511.968">
+<Sync time="2508.481"/>
+hm hm
+<Sync time="2509.044"/>
+
+<Sync time="2509.745"/>
+hm
+<Sync time="2509.984"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to62" startTime="2511.968" endTime="2532.501">
+<Turn speaker="spk4" startTime="2511.968" endTime="2515.521">
+<Sync time="2511.968"/>
+habituellement avez-vous quelque chose pour écrire sur vous ?
+</Turn>
+<Turn speaker="spk1" startTime="2515.521" endTime="2517.768">
+<Sync time="2515.521"/>
+
+<Sync time="2516.356"/>
+ah oui toujours
+<Sync time="2517.143"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2517.768" endTime="2518.049">
+<Sync time="2517.768"/>
+quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2518.049" endTime="2525.332">
+<Sync time="2518.049"/>
+
+<Sync time="2519.222"/>
+ah ben j'ai
+<Sync time="2520.019"/>
+
+<Sync time="2521.035"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2522.542"/>
+crayon noir crayon rouge parce que je fais du contrôle
+</Turn>
+<Turn speaker="spk4" startTime="2525.332" endTime="2525.942">
+<Sync time="2525.332"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2525.942" endTime="2530.422">
+<Sync time="2525.942"/>
+crayon ordinaire
+<Sync time="2526.93"/>
+
+<Sync time="2527.312"/>
+et j'ai toujours ça d- euh dans ma veste en permanence quoi
+<Sync time="2530.25"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2530.422" endTime="2532.501">
+<Sync time="2530.422"/>
+hm hm
+<Sync time="2531.0"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to63" startTime="2532.501" endTime="2554.26">
+<Turn speaker="spk4" startTime="2532.501" endTime="2534.392">
+<Sync time="2532.501"/>
+possédez-vous un stylo à encre ?
+</Turn>
+<Turn speaker="spk1" startTime="2534.392" endTime="2537.223">
+<Sync time="2534.392"/>
+
+<Sync time="2535.053"/>
+oui mais je m'en sers euh presque plus maintenant
+</Turn>
+<Turn speaker="spk4" startTime="2537.223" endTime="2544.835">
+<Sync time="2537.223"/>
+hm hm
+<Sync time="2537.817"/>
+
+<Sync time="2538.535"/>
+et à la suite de quelles circonstances avez-vous possédé pour la première fois un stylo à encre ?
+<Sync time="2543.953"/>
+à quel âge ?
+</Turn>
+<Turn speaker="spk1" startTime="2544.835" endTime="2551.672">
+<Sync time="2544.835"/>
+
+<Sync time="2546.719"/>
+à l'école euh primaire supérieure alors j'avais quinze ans
+</Turn>
+<Turn speaker="spk4" startTime="2551.672" endTime="2554.26">
+<Sync time="2551.672"/>
+quinze ans
+<Sync time="2552.419"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to65" startTime="2554.26" endTime="2604.639">
+<Turn speaker="spk4" startTime="2554.26" endTime="2557.503">
+<Sync time="2554.26"/>
+et quand av- quand avez-vous écrit pour la dernière fois ?
+</Turn>
+<Turn speaker="spk1" startTime="2557.503" endTime="2560.465">
+<Sync time="2557.503"/>
+
+<Sync time="2559.125"/>
+avec un stylo euh à encre ?
+</Turn>
+<Turn speaker="spk4" startTime="2560.465" endTime="2562.56">
+<Sync time="2560.465"/>
+non avec n'importe quoi
+</Turn>
+<Turn speaker="spk1" startTime="2562.56" endTime="2564.258">
+<Sync time="2562.56"/>
+
+<Sync time="2563.089"/>
+n'importe quoi ?
+</Turn>
+<Turn speaker="spk4" startTime="2564.258" endTime="2567.291">
+<Sync time="2564.258"/>
+oui avec votre crayon votre plume de stylo ou
+</Turn>
+<Turn speaker="spk1" startTime="2567.291" endTime="2572.275">
+<Sync time="2567.291"/>
+oh ben c'est pas vieux hein c'est quand j'ai fini mon travail à midi à midi
+</Turn>
+<Turn speaker="spk4" startTime="2572.275" endTime="2573.015">
+<Sync time="2572.275"/>
+hm à midi
+</Turn>
+<Turn speaker="spk1" startTime="2573.015" endTime="2574.371">
+<Sync time="2573.015"/>
+l'heure que je vous avais dit
+<Sync time="2573.985"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2574.371" endTime="2575.277">
+<Sync time="2574.371"/>
+à votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="2575.277" endTime="2581.254">
+<Sync time="2575.277"/>
+
+<Sync time="2575.54"/>
+euh oui
+<Sync time="2576.337"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2581.254" endTime="2582.442">
+<Sync time="2581.254"/>
+et c'est pour faire quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2582.442" endTime="2604.639">
+<Sync time="2582.442"/>
+
+<Sync time="2586.095"/>
+la comptabilité du
+<Sync time="2588.127"/>
+
+<Sync time="2591.971"/>
+écrire une lettre à un 
+<Sync time="2593.903"/>
+un client aussi
+<Sync time="2595.2"/>
+
+<Sync time="2597.127"/>
+avant de partir
+<Sync time="2598.049"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to64" startTime="2604.639" endTime="2633.12">
+<Turn speaker="spk4" startTime="2604.639" endTime="2607.882">
+<Sync time="2604.639"/>
+et vous avez eu besoin d'écrire beaucoup pour votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="2607.882" endTime="2609.562">
+<Sync time="2607.882"/>
+oui
+<Sync time="2608.479"/>
+
+<Sync time="2608.985"/>
+assez oui
+<Sync time="2609.371"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2609.562" endTime="2614.05">
+<Sync time="2609.562"/>
+hm hm
+<Sync time="2609.968"/>
+
+<Sync time="2611.16"/>
+vous avez dit euh la comptabilité euh
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2614.05" endTime="2614.838">
+<Sync time="2614.05"/>
+<Who nb="1"/>
+vous avez 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+oui parce que je fais 
+</Turn>
+<Turn speaker="spk1" startTime="2614.838" endTime="2615.667">
+<Sync time="2614.838"/>
+toutes sortes de choses
+</Turn>
+<Turn speaker="spk1" startTime="2615.667" endTime="2624.591">
+<Sync time="2615.667"/>
+j'ai de la comptabilité j'ai de
+<Sync time="2617.432"/>
+
+<Sync time="2617.985"/>
+euh j'ai du contrôle à faire j'ai de la correspondance
+<Sync time="2621.586"/>
+
+<Sync time="2622.063"/>
+à faire avec des usagers avec les clients
+</Turn>
+<Turn speaker="spk4" startTime="2624.591" endTime="2626.981">
+<Sync time="2624.591"/>
+hm hm
+<Sync time="2625.106"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2626.981" endTime="2631.134">
+<Sync time="2626.981"/>
+et euh des quelquefois des rapports aussi alors euh y a y a toutes sortes de choses quoi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2631.134" endTime="2633.12">
+<Sync time="2631.134"/>
+hm hm hm
+<Sync time="2631.827"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to66" startTime="2633.12" endTime="2685.944">
+<Turn speaker="spk4" startTime="2633.12" endTime="2644.649">
+<Sync time="2633.12"/>
+et si vous deviez dire quelque chose à une personne
+<Sync time="2636.808"/>
+
+<Sync time="2636.922"/>
+habitant à cinq kilomètres de chez vous 
+<Sync time="2639.978"/>
+
+<Sync time="2640.952"/>
+préférériez-vous vous déplacer ou lui écrire une lettre ?
+</Turn>
+<Turn speaker="spk1" startTime="2644.649" endTime="2648.208">
+<Sync time="2644.649"/>
+
+<Sync time="2646.228"/>
+pour mon travail ou ?
+<Sync time="2647.728"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2648.208" endTime="2649.525">
+<Sync time="2648.208"/>
+n'importe
+<Sync time="2648.709"/>
+
+<Sync time="2648.924"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2649.525" endTime="2650.954">
+<Sync time="2649.525"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+oh pour mon travail j'écris
+</Turn>
+<Turn speaker="spk1" startTime="2650.954" endTime="2652.843">
+<Sync time="2650.954"/>
+
+<Sync time="2651.698"/>
+on écrit pour le travail
+</Turn>
+<Turn speaker="spk4" startTime="2652.843" endTime="2654.064">
+<Sync time="2652.843"/>
+travail et
+</Turn>
+<Turn speaker="spk1" startTime="2654.064" endTime="2663.287">
+<Sync time="2654.064"/>
+mais si c'est
+<Sync time="2655.69"/>
+
+<Sync time="2655.953"/>
+si c'est quelqu'un que 
+<Sync time="2657.225"/>
+qu'on veut voir on va plutôt le voir cinq kilomètres c'est rien du tout avec la voiture y'en a pour euh 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ pour quelques minutes
+</Turn>
+<Turn speaker="spk4" startTime="2663.287" endTime="2671.489">
+<Sync time="2663.287"/>
+hm hm
+<Sync time="2663.756"/>
+
+<Sync time="2664.909"/>
+et si cette personne vous est supérieure 
+<Sync time="2667.488"/>
+
+<Sync time="2669.349"/>
+est-ce que vous vous déplacez ou vous écrivez ?
+</Turn>
+<Turn speaker="spk1" startTime="2671.489" endTime="2679.165">
+<Sync time="2671.489"/>
+
+<Sync time="2675.975"/>
+il m'est supérieur euh comment ça dans le travail ou ?
+</Turn>
+<Turn speaker="spk4" startTime="2679.165" endTime="2680.311">
+<Sync time="2679.165"/>
+oui dans le travail
+</Turn>
+<Turn speaker="spk1" startTime="2680.311" endTime="2685.944">
+<Sync time="2680.311"/>
+non on se déplace euh
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+<Sync time="2682.462"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to67" startTime="2685.944" endTime="2712.663">
+<Turn speaker="spk4" startTime="2685.944" endTime="2689.335">
+<Sync time="2685.944"/>
+est-il important selon vous d'avoir une belle écriture ?
+</Turn>
+<Turn speaker="spk1" startTime="2689.335" endTime="2692.106">
+<Sync time="2689.335"/>
+
+<Sync time="2690.003"/>
+oui pour moi c'est très important
+<Sync time="2691.597"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2692.106" endTime="2692.809">
+<Sync time="2692.106"/>
+pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2692.809" endTime="2707.05">
+<Sync time="2692.809"/>
+
+<Sync time="2693.919"/>
+eh bien parce que c'est déjà très facile de 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2697.072"/>
+
+<Sync time="2697.649"/>
+euh
+<Sync time="2698.221"/>
+c'est très facile de
+<Sync time="2700.153"/>
+
+<Sync time="2703.611"/>
+de se relire et puis c'est très facile pour les autres aussi quand ils vous lisent
+</Turn>
+<Turn speaker="spk4" startTime="2707.05" endTime="2707.46">
+<Sync time="2707.05"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="2707.46" endTime="2712.663">
+<Sync time="2707.46"/>
+aussi
+<Sync time="2708.038"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to68" startTime="2712.663" endTime="2737.248">
+<Turn speaker="spk4" startTime="2712.663" endTime="2715.649">
+<Sync time="2712.663"/>
+et est-il important selon vous d'avoir de l'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="2715.649" endTime="2718.02">
+<Sync time="2715.649"/>
+
+<Sync time="2716.465"/>
+ah oui
+<Sync time="2717.136"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2718.02" endTime="2721.202">
+<Sync time="2718.02"/>
+vous dites euh vous dites
+<Sync time="2719.766"/>
+c'est très important ou
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2721.202" endTime="2722.686">
+<Sync time="2721.202"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ah c'est très important oui
+</Turn>
+<Turn speaker="spk4" startTime="2722.686" endTime="2724.127">
+<Sync time="2722.686"/>
+
+<Sync time="2723.192"/>
+et pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2724.127" endTime="2733.122">
+<Sync time="2724.127"/>
+
+<Sync time="2724.799"/>
+ ben parce que quand vous lisez quelque chose où que y a une faute d'orthographe dedans vous vous dites quand même eh où c'est qu'il a été à l'école
+<Sync time="2730.809"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2732.168"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2733.122" endTime="2737.248">
+<Sync time="2733.122"/>
+hm
+<Sync time="2733.543"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to69" startTime="2737.248" endTime="2776.357">
+<Turn speaker="spk4" startTime="2737.248" endTime="2741.81">
+<Sync time="2737.248"/>
+euh seriez-vous favorable à une réforme de l'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="2741.81" endTime="2745.605">
+<Sync time="2741.81"/>
+
+<Sync time="2744.002"/>
+une réforme de l'orthographe ?
+</Turn>
+<Turn speaker="spk4" startTime="2745.605" endTime="2751.214">
+<Sync time="2745.605"/>
+hm hm
+<Sync time="2745.995"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2751.214" endTime="2769.083">
+<Sync time="2751.214"/>
+ben du moment que tout le monde en est informé je vois pas
+<Sync time="2754.202"/>
+si si c'est en bien ma foi
+<Sync time="2756.138"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2757.021"/>
+moi je
+<Sync time="2757.717"/>
+
+<Sync time="2758.314"/>
+je suis pas contre
+<Sync time="2759.158"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2769.083" endTime="2776.357">
+<Sync time="2769.083"/>
+alors maintenant je vais vous poser des questions euh
+<Sync time="2772.136"/>
+
+<Sync time="2772.999"/>
+peut-être un peu
+<Sync time="2773.834"/>
+
+<Sync time="2774.006"/>
+un peu plus pers- personnelle mais
+<Sync time="2775.756"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to70" startTime="2776.357" endTime="2826.743">
+<Turn speaker="spk4" startTime="2776.357" endTime="2782.429">
+<Sync time="2776.357"/>
+qui de vous
+<Sync time="2777.268"/>
+
+<Sync time="2777.845"/>
+c'est-à-dire vous ou votre femme
+<Sync time="2779.896"/>
+écrit habituellement à des amis communs ?
+</Turn>
+<Turn speaker="spk1" startTime="2782.429" endTime="2787.799">
+<Sync time="2782.429"/>
+
+<Sync time="2784.866"/>
+c'est presque toujours moi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2787.227"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2787.799" endTime="2792.235">
+<Sync time="2787.799"/>
+et le le à la famille euh à la euh à vos à votre famille ?
+</Turn>
+<Turn speaker="spk1" startTime="2792.235" endTime="2795.46">
+<Sync time="2792.235"/>
+
+<Sync time="2793.547"/>
+oh ben moi je fais tout le courrier presque
+</Turn>
+<Turn speaker="spk4" startTime="2795.46" endTime="2796.299">
+<Sync time="2795.46"/>
+et 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2796.299" endTime="2797.2">
+<Sync time="2796.299"/>
+<Who nb="1"/>
+même si 
+<Who nb="2"/>
+elle fait 
+</Turn>
+<Turn speaker="spk1" startTime="2797.2" endTime="2799.328">
+<Sync time="2797.2"/>
+très peu de lettres elle-même
+<Sync time="2798.173"/>
+elle fait très peu de lettres
+</Turn>
+<Turn speaker="spk4" startTime="2799.328" endTime="2800.003">
+<Sync time="2799.328"/>
+hm
+<Sync time="2799.688"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2800.003" endTime="2806.104">
+<Sync time="2800.003"/>
+et si j'ai pas le temps par exemple euh
+<Sync time="2802.059"/>
+
+<Sync time="2803.161"/>
+eh bien
+<Sync time="2804.239"/>
+
+<Sync time="2804.601"/>
+elle va en faire une comme ça euh
+</Turn>
+<Turn speaker="spk4" startTime="2806.104" endTime="2809.357">
+<Sync time="2806.104"/>
+hm hm
+<Sync time="2806.51"/>
+
+<Sync time="2807.278"/>
+et qui remplit les papiers administratifs ?
+</Turn>
+<Turn speaker="spk1" startTime="2809.357" endTime="2811.213">
+<Sync time="2809.357"/>
+
+<Sync time="2809.62"/>
+ah ça c'est moi ça
+<Sync time="2810.588"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2811.213" endTime="2812.792">
+<Sync time="2811.213"/>
+tous les papiers les feuilles d'impôts les
+</Turn>
+<Turn speaker="spk1" startTime="2812.792" endTime="2813.248">
+<Sync time="2812.792"/>
+tout 
+</Turn>
+<Turn speaker="spk4" startTime="2813.248" endTime="2816.212">
+<Sync time="2813.248"/>
+tout tout tout
+<Sync time="2813.918"/>
+et pourquoi est-ce que vous faites tous les 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2816.212" endTime="2816.661">
+<Sync time="2816.212"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ ?
+<Who nb="2"/>
+ah ben parce 
+</Turn>
+<Turn speaker="spk1" startTime="2816.661" endTime="2817.585">
+<Sync time="2816.661"/>
+qu'elle veut pas le faire
+</Turn>
+<Turn speaker="spk4" startTime="2817.585" endTime="2818.048">
+<Sync time="2817.585"/>
+
+<Sync time="2817.876"/>
+ah
+</Turn>
+<Turn speaker="spk1" startTime="2818.048" endTime="2819.627">
+<Sync time="2818.048"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2819.627" endTime="2826.743">
+<Sync time="2819.627"/>
+très peu pour moi
+<Sync time="2820.923"/>
+
+<Sync time="2823.137"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ lettre
+<Sync time="2825.784"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to71" startTime="2826.743" endTime="2882.041">
+<Turn speaker="spk4" startTime="2826.743" endTime="2831.313">
+<Sync time="2826.743"/>
+et qui de vous possède le meilleur orthographe ?
+<Sync time="2829.896"/>
+
+<Sync time="2830.092"/>
+la meilleure orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="2831.313" endTime="2835.162">
+<Sync time="2831.313"/>
+
+<Sync time="2833.059"/>
+oh ben elle est bonne en orthographe hm
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2835.162" endTime="2837.018">
+<Sync time="2835.162"/>
+<Who nb="1"/>
+elle fait pas de faute non plus
+<Who nb="2"/>
+oui mais enfin des fautes 
+</Turn>
+<Turn speaker="spk3" startTime="2837.018" endTime="2838.119">
+<Sync time="2837.018"/>
+d'inattention surtout
+</Turn>
+<Turn speaker="spk1" startTime="2838.119" endTime="2839.174">
+<Sync time="2838.119"/>
+
+<Sync time="2838.525"/>
+oui
+</Turn>
+<Turn speaker="spk3" startTime="2839.174" endTime="2845.498">
+<Sync time="2839.174"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2839.706"/>
+
+<Sync time="2840.967"/>
+mais les idées vont toujours plus vite que la la main va toujours plus vite que les idées
+<Sync time="2845.212"/>
+
+</Turn>
+<Turn speaker="spk3 spk1" startTime="2845.498" endTime="2846.161">
+<Sync time="2845.498"/>
+<Who nb="1"/>
+alors je
+<Who nb="2"/>
+de toute façon 
+</Turn>
+<Turn speaker="spk1" startTime="2846.161" endTime="2848.031">
+<Sync time="2846.161"/>
+quand elle écrit je la corrige alors
+<Sync time="2847.764"/>
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2848.031" endTime="2849.462">
+<Sync time="2848.031"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2849.462" endTime="2853.195">
+<Sync time="2849.462"/>
+
+<Sync time="2849.759"/>
+oh j'en fais quelques-unes sans doute pas tout mais enfin 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2852.976"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2853.195" endTime="2854.464">
+<Sync time="2853.195"/>
+bon
+<Sync time="2853.386"/>
+
+<Sync time="2854.102"/>
+et
+</Turn>
+<Turn speaker="spk3" startTime="2854.464" endTime="2855.633">
+<Sync time="2854.464"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2855.466"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2855.633" endTime="2857.57">
+<Sync time="2855.633"/>
+qui parle dans le meilleur français ?
+</Turn>
+<Turn speaker="spk1" startTime="2857.57" endTime="2861.934">
+<Sync time="2857.57"/>
+
+<Sync time="2859.926"/>
+oh
+<Sync time="2860.317"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="2861.934" endTime="2862.392">
+<Sync time="2861.934"/>
+ça se vaut
+</Turn>
+<Turn speaker="spk1" startTime="2862.392" endTime="2863.351">
+<Sync time="2862.392"/>
+ça se vaut hein ?
+</Turn>
+<Turn speaker="spk4" startTime="2863.351" endTime="2871.725">
+<Sync time="2863.351"/>
+hm
+<Sync time="2863.774"/>
+
+<Sync time="2869.741"/>
+et qui écrit dans le meilleur français ?
+</Turn>
+<Turn speaker="spk3" startTime="2871.725" endTime="2875.045">
+<Sync time="2871.725"/>
+
+<Sync time="2874.301"/>
+ça c'est sûrement toi
+</Turn>
+<Turn speaker="spk1" startTime="2875.045" endTime="2876.714">
+<Sync time="2875.045"/>
+c'est sûrement moi oui j'ai
+<Sync time="2876.38"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2876.714" endTime="2877.716">
+<Sync time="2876.714"/>
+hm
+<Sync time="2876.995"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2877.716" endTime="2882.041">
+<Sync time="2877.716"/>
+l'occasion de
+<Sync time="2878.388"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to72" startTime="2882.041" endTime="2914.557">
+<Turn speaker="spk4" startTime="2882.041" endTime="2888.379">
+<Sync time="2882.041"/>
+et combien de lettres écrivez-vous en moyenne ?
+<Sync time="2885.759"/>
+
+<Sync time="2886.048"/>
+par mois ?
+<Sync time="2886.891"/>
+
+<Sync time="2887.301"/>
+dans votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="2888.379" endTime="2890.502">
+<Sync time="2888.379"/>
+
+<Sync time="2889.4"/>
+dans mon travail
+</Turn>
+<Turn speaker="spk4" startTime="2890.502" endTime="2896.516">
+<Sync time="2890.502"/>
+hm
+<Sync time="2890.893"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2896.516" endTime="2904.234">
+<Sync time="2896.516"/>
+oh ça ça dépend c'est en
+<Sync time="2898.019"/>
+
+<Sync time="2898.629"/>
+enfin en moyenne en moyenne euh par mois ?
+<Sync time="2901.219"/>
+
+<Sync time="2902.436"/>
+oh peut-être une dizaine
+<Sync time="2904.015"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2904.234" endTime="2905.25">
+<Sync time="2904.234"/>
+une dizaine
+<Sync time="2904.735"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2905.25" endTime="2906.071">
+<Sync time="2905.25"/>
+ouais
+<Sync time="2905.641"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2906.071" endTime="2907.53">
+<Sync time="2906.071"/>
+et hors de votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="2907.53" endTime="2911.585">
+<Sync time="2907.53"/>
+
+<Sync time="2910.082"/>
+deux ou trois
+<Sync time="2910.821"/>
+par mois
+</Turn>
+<Turn speaker="spk4 spk3" startTime="2911.585" endTime="2912.138">
+<Sync time="2911.585"/>
+<Who nb="1"/>
+hm
+<Who nb="2"/>
+oh oui
+</Turn>
+<Turn speaker="spk1" startTime="2912.138" endTime="2912.52">
+<Sync time="2912.138"/>
+à peu près
+</Turn>
+<Turn speaker="spk3" startTime="2912.52" endTime="2914.557">
+<Sync time="2912.52"/>
+à peu près oui
+<Sync time="2913.169"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to73" startTime="2914.557" endTime="2971.07">
+<Turn speaker="spk4" startTime="2914.557" endTime="2916.923">
+<Sync time="2914.557"/>
+conservez-vous les lettres qu'on vous envoie ?
+</Turn>
+<Turn speaker="spk1" startTime="2916.923" endTime="2918.406">
+<Sync time="2916.923"/>
+ah oui
+<Sync time="2917.5"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2918.406" endTime="2918.891">
+<Sync time="2918.406"/>
+toujours ?
+</Turn>
+<Turn speaker="spk1" startTime="2918.891" endTime="2920.915">
+<Sync time="2918.891"/>
+
+<Sync time="2919.527"/>
+ah ça dépend de qui 
+<Sync time="2920.553"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="2920.915" endTime="2921.464">
+<Sync time="2920.915"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk4" startTime="2921.464" endTime="2923.718">
+<Sync time="2921.464"/>
+
+<Sync time="2922.828"/>
+et lesquelles ?
+</Turn>
+<Turn speaker="spk1" startTime="2923.718" endTime="2944.693">
+<Sync time="2923.718"/>
+
+<Sync time="2926.954"/>
+en principe euh 
+<Sync time="2928.27"/>
+si c'est une euh une affaire à régler euh 
+<Sync time="2931.585"/>
+une fois que l'affaire est réglée ma foi je détruis le courrier c'est fini c'est pas on en parle plus
+<Sync time="2935.711"/>
+
+<Sync time="2938.411"/>
+mais la correspondance familiale on la conserve
+<Sync time="2940.92"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2944.693" endTime="2946.713">
+<Sync time="2944.693"/>
+et combien en possédez-vous environ ?
+</Turn>
+<Turn speaker="spk1" startTime="2946.713" endTime="2951.065">
+<Sync time="2946.713"/>
+
+<Sync time="2950.373"/>
+de lettres ?
+</Turn>
+<Turn speaker="spk4" startTime="2951.065" endTime="2951.637">
+<Sync time="2951.065"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2951.637" endTime="2953.569">
+<Sync time="2951.637"/>
+
+<Sync time="2952.305"/>
+oh ben y en a plein de boîtes là
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2953.569" endTime="2955.768">
+<Sync time="2953.569"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ pour les compter
+</Turn>
+<Turn speaker="spk4" startTime="2955.768" endTime="2963.356">
+<Sync time="2955.768"/>
+
+<Sync time="2956.018"/>
+hm hm
+<Sync time="2956.488"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2963.356" endTime="2967.516">
+<Sync time="2963.356"/>
+euh je sais pas moi peut-être euh
+<Sync time="2965.646"/>
+
+<Sync time="2965.794"/>
+bien bien deux cents quand même
+</Turn>
+<Turn speaker="spk3" startTime="2967.516" endTime="2967.974">
+<Sync time="2967.516"/>
+oh oui
+</Turn>
+<Turn speaker="spk1" startTime="2967.974" endTime="2969.534">
+<Sync time="2967.974"/>
+oh oui facile
+<Sync time="2968.933"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2969.534" endTime="2971.07">
+<Sync time="2969.534"/>
+hm hm
+<Sync time="2969.873"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to74" startTime="2971.07" endTime="3061.952">
+<Turn speaker="spk4" startTime="2971.07" endTime="2975.26">
+<Sync time="2971.07"/>
+quand vous écrivez à vos amis
+<Sync time="2973.258"/>
+
+<Sync time="2973.526"/>
+faites-vous un brouillon ?
+</Turn>
+<Turn speaker="spk1" startTime="2975.26" endTime="2977.985">
+<Sync time="2975.26"/>
+
+<Sync time="2976.03"/>
+non jamais
+<Sync time="2976.645"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="2977.985" endTime="2980.696">
+<Sync time="2977.985"/>
+et
+<Sync time="2978.462"/>
+
+<Sync time="2978.837"/>
+faites-vous attention aux fautes d'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="2980.696" endTime="2986.523">
+<Sync time="2980.696"/>
+
+<Sync time="2984.519"/>
+euh j'ai pas compris la question
+</Turn>
+<Turn speaker="spk4" startTime="2986.523" endTime="2987.72">
+<Sync time="2986.523"/>
+quand vous écrivez à vos 
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2987.72" endTime="2988.316">
+<Sync time="2987.72"/>
+<Who nb="1"/>
+amis
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk4" startTime="2988.316" endTime="2992.154">
+<Sync time="2988.316"/>
+
+<Sync time="2988.984"/>
+est-ce que vous faites toujours attention aux fautes d'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="2992.154" endTime="2996.237">
+<Sync time="2992.154"/>
+
+<Sync time="2994.305"/>
+ben je me re- je relis toujours
+</Turn>
+<Turn speaker="spk4" startTime="2996.237" endTime="2997.22">
+<Sync time="2996.237"/>
+vous rerelisez 
+</Turn>
+<Turn speaker="spk4 spk1" startTime="2997.22" endTime="2997.582">
+<Sync time="2997.22"/>
+<Who nb="1"/>
+toujours
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2997.582" endTime="3002.19">
+<Sync time="2997.582"/>
+
+<Sync time="2997.821"/>
+m'enfin euh j'en trouve presque jamais
+<Sync time="2999.781"/>
+
+<Sync time="3000.234"/>
+parce que j'étais assez fort en orthographe
+</Turn>
+<Turn speaker="spk4" startTime="3002.19" endTime="3008.977">
+<Sync time="3002.19"/>
+hm hm
+<Sync time="3002.58"/>
+
+<Sync time="3004.055"/>
+et
+<Sync time="3004.337"/>
+
+<Sync time="3004.704"/>
+vous m'avez dit que d'habitude vous écrivez euh avec un crayon n'est-ce pas ?
+<Sync time="3008.667"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3008.977" endTime="3010.074">
+<Sync time="3008.977"/>
+un crayon Bic oui
+</Turn>
+<Turn speaker="spk4" startTime="3010.074" endTime="3014.74">
+<Sync time="3010.074"/>
+crayon
+<Sync time="3010.528"/>
+
+<Sync time="3011.296"/>
+et euh
+<Sync time="3012.398"/>
+
+<Sync time="3012.832"/>
+stylo encre vous n'aimez pas ?
+</Turn>
+<Turn speaker="spk1" startTime="3014.74" endTime="3025.777">
+<Sync time="3014.74"/>
+
+<Sync time="3015.412"/>
+oh c'est-à-dire que euh
+<Sync time="3017.416"/>
+
+<Sync time="3018.589"/>
+ça dépend pourquoi la
+<Sync time="3020.235"/>
+
+<Sync time="3022.243"/>
+mais j'ai abandonné complètement le stylo euh d'ailleurs euh
+<Sync time="3025.467"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3025.777" endTime="3026.66">
+<Sync time="3025.777"/>
+hm hm
+<Sync time="3026.214"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3026.66" endTime="3030.385">
+<Sync time="3026.66"/>
+je m'en sers plus mais j'en ai même plusieurs là je m'en sers pas
+</Turn>
+<Turn speaker="spk4" startTime="3030.385" endTime="3031.534">
+<Sync time="3030.385"/>
+hm hm
+<Sync time="3030.963"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3031.534" endTime="3033.907">
+<Sync time="3031.534"/>
+on a l'habitude du crayon Bic maintenant
+<Sync time="3033.657"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3033.907" endTime="3034.663">
+<Sync time="3033.907"/>
+hm hm
+<Sync time="3034.423"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3034.663" endTime="3037.549">
+<Sync time="3034.663"/>
+ah oui y'a des pointes très fines qui font une très belle écriture
+</Turn>
+<Turn speaker="spk4" startTime="3037.549" endTime="3041.732">
+<Sync time="3037.549"/>
+hm hm
+<Sync time="3038.189"/>
+
+<Sync time="3039.128"/>
+et stylo bille
+<Sync time="3040.778"/>
+
+<Sync time="3041.075"/>
+ou ?
+</Turn>
+<Turn speaker="spk1" startTime="3041.732" endTime="3043.068">
+<Sync time="3041.732"/>
+
+<Sync time="3042.304"/>
+stylo bille oui
+</Turn>
+<Turn speaker="spk4" startTime="3043.068" endTime="3047.035">
+<Sync time="3043.068"/>
+hm hm
+<Sync time="3043.474"/>
+
+<Sync time="3044.957"/>
+et quel type de papier utilisez-vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3047.035" endTime="3054.239">
+<Sync time="3047.035"/>
+
+<Sync time="3048.034"/>
+euh papier ministre toujours
+<Sync time="3049.66"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3054.239" endTime="3055.332">
+<Sync time="3054.239"/>
+c'est quelle couleur ?
+</Turn>
+<Turn speaker="spk1" startTime="3055.332" endTime="3058.608">
+<Sync time="3055.332"/>
+
+<Sync time="3055.718"/>
+oh ben c'est blanc euh quadrillé quoi
+<Sync time="3058.179"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3058.608" endTime="3061.952">
+<Sync time="3058.608"/>
+hm hm
+<Sync time="3059.108"/>
+
+<Sync time="3060.111"/>
+et
+<Sync time="3060.611"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to75" startTime="3061.952" endTime="3088.454">
+<Turn speaker="spk4" startTime="3061.952" endTime="3066.485">
+<Sync time="3061.952"/>
+que pensez-vous des gens qui se servent
+<Sync time="3064.051"/>
+
+<Sync time="3064.223"/>
+euh
+<Sync time="3064.52"/>
+
+<Sync time="3064.692"/>
+mm
+<Sync time="3064.911"/>
+
+<Sync time="3065.126"/>
+du papier à carreaux ?
+</Turn>
+<Turn speaker="spk1" startTime="3066.485" endTime="3069.919">
+<Sync time="3066.485"/>
+
+<Sync time="3067.916"/>
+ben c'est du papier à carreaux je prends
+<Sync time="3069.633"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3069.919" endTime="3070.587">
+<Sync time="3069.919"/>
+<Who nb="1"/>
+enfin
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3070.587" endTime="3072.018">
+<Sync time="3070.587"/>
+papier euh papier ministre 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3072.018" endTime="3073.072">
+<Sync time="3072.018"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ah bon
+</Turn>
+<Turn speaker="spk1" startTime="3073.072" endTime="3073.501">
+<Sync time="3073.072"/>
+va chercher
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3073.501" endTime="3074.212">
+<Sync time="3073.501"/>
+<Who nb="1"/>
+le
+<Who nb="2"/>
+ah bon
+</Turn>
+<Turn speaker="spk1" startTime="3074.212" endTime="3077.561">
+<Sync time="3074.212"/>
+
+<Sync time="3074.765"/>
+je vais vous montrer
+<Sync time="3075.338"/>
+
+<Sync time="3075.772"/>
+va va
+<Sync time="3076.535"/>
+ben tu vas chercher le
+</Turn>
+<Turn speaker="spk4" startTime="3077.561" endTime="3077.968">
+<Sync time="3077.561"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3077.968" endTime="3078.901">
+<Sync time="3077.968"/>
+le bloc là
+<Sync time="3078.734"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3078.901" endTime="3079.807">
+<Sync time="3078.901"/>
+hm hm
+<Sync time="3079.433"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3079.807" endTime="3080.79">
+<Sync time="3079.807"/>
+je vais vous montrer
+<Sync time="3080.571"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3080.79" endTime="3081.053">
+<Sync time="3080.79"/>
+bon
+</Turn>
+<Turn speaker="spk1" startTime="3081.053" endTime="3084.271">
+<Sync time="3081.053"/>
+comme ça vous saurez mieux
+<Sync time="3082.144"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3084.271" endTime="3088.454">
+<Sync time="3084.271"/>
+et quand vous écrivez euh mm
+<Sync time="3086.656"/>
+quand vous écri- ah
+<Sync time="3087.734"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to76" startTime="3088.454" endTime="3136.488">
+<Turn speaker="spk4" startTime="3088.454" endTime="3094.02">
+<Sync time="3088.454"/>
+deviez écriver un mot d'excuse à l'école de vos enfants
+<Sync time="3091.96"/>
+
+<Sync time="3092.442"/>
+est-ce que vous avez fait un brouillon ?
+</Turn>
+<Turn speaker="spk1" startTime="3094.02" endTime="3098.127">
+<Sync time="3094.02"/>
+
+<Sync time="3095.738"/>
+ah ben ça m'est jamais arrivé ça
+<Sync time="3097.598"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3098.127" endTime="3099.105">
+<Sync time="3098.127"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ d'écrire un mot ?
+</Turn>
+<Turn speaker="spk1" startTime="3099.105" endTime="3100.345">
+<Sync time="3099.105"/>
+ah non jamais
+<Sync time="3099.844"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3100.345" endTime="3102.84">
+<Sync time="3100.345"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+c'est quelque chose déjà n'est-ce pas ?
+</Turn>
+<Turn speaker="spk4" startTime="3102.84" endTime="3107.161">
+<Sync time="3102.84"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="3107.161" endTime="3107.97">
+<Sync time="3107.161"/>
+<Who nb="1"/>
+ah
+<Who nb="2"/>
+oui c'est ce 
+</Turn>
+<Turn speaker="spk1" startTime="3107.97" endTime="3108.783">
+<Sync time="3107.97"/>
+voilà ce que je prends
+</Turn>
+<Turn speaker="spk4" startTime="3108.783" endTime="3111.386">
+<Sync time="3108.783"/>
+ah c'est papier à lignes
+<Sync time="3110.518"/>
+à à carreaux
+</Turn>
+<Turn speaker="spk1" startTime="3111.386" endTime="3112.579">
+<Sync time="3111.386"/>
+euh papier à carreaux oui
+</Turn>
+<Turn speaker="spk4" startTime="3112.579" endTime="3114.658">
+<Sync time="3112.579"/>
+et c'est papier ministre c'est comme une grande feuille
+</Turn>
+<Turn speaker="spk1" startTime="3114.658" endTime="3115.631">
+<Sync time="3114.658"/>
+oui c'est la grande feuille 
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3115.631" endTime="3116.823">
+<Sync time="3115.631"/>
+<Who nb="1"/>
+oui je me suis trompé euh 
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3116.823" endTime="3119.929">
+<Sync time="3116.823"/>
+c'est pas papier ministre ça s'appelle euh format commercial ça je crois
+</Turn>
+<Turn speaker="spk4" startTime="3119.929" endTime="3123.296">
+<Sync time="3119.929"/>
+ah bon
+<Sync time="3120.523"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3123.296" endTime="3125.575">
+<Sync time="3123.296"/>
+alors y'a le petit bloc aussi qui fait moitié vous voyez
+</Turn>
+<Turn speaker="spk4" startTime="3125.575" endTime="3126.028">
+<Sync time="3125.575"/>
+ah oui
+</Turn>
+<Turn speaker="spk1" startTime="3126.028" endTime="3131.632">
+<Sync time="3126.028"/>
+alors euh quand j'ai une petite lettre je prends le petit bloc quand j'ai une grande lettre je prends celui-là
+<Sync time="3130.44"/>
+
+<Sync time="3131.012"/>
+toujours le même
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3131.632" endTime="3132.232">
+<Sync time="3131.632"/>
+<Who nb="1"/>
+mais on a pas de 
+<Who nb="2"/>
+merci
+</Turn>
+<Turn speaker="spk1" startTime="3132.232" endTime="3133.326">
+<Sync time="3132.232"/>
+papier fantaisie
+</Turn>
+<Turn speaker="spk4" startTime="3133.326" endTime="3136.488">
+<Sync time="3133.326"/>
+ah non
+<Sync time="3133.731"/>
+
+<Sync time="3133.736"/>
+merci
+<Sync time="3134.888"/>
+
+<Sync time="3135.972"/>
+et
+</Turn>
+</Section>
+<Section type="report" topic="to77" startTime="3136.488" endTime="3164.009">
+<Turn speaker="spk4" startTime="3136.488" endTime="3142.847">
+<Sync time="3136.488"/>
+quand vous av- devez écrire à votre supérieur ou dans le travail ?
+<Sync time="3140.892"/>
+
+<Sync time="3141.457"/>
+est-ce que vous faites un brouillon ?
+</Turn>
+<Turn speaker="spk1" startTime="3142.847" endTime="3144.997">
+<Sync time="3142.847"/>
+
+<Sync time="3143.723"/>
+ah oui quand même
+<Sync time="3144.825"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3144.997" endTime="3149.061">
+<Sync time="3144.997"/>
+hm hm
+<Sync time="3145.481"/>
+
+<Sync time="3146.433"/>
+et vous vous servez du du même papier ?
+</Turn>
+<Turn speaker="spk1" startTime="3149.061" endTime="3157.627">
+<Sync time="3149.061"/>
+
+<Sync time="3151.927"/>
+ben c'est à dire qu'on a du papier à notre disposition non c'est du papier blanc hein à ce moment-là c'est des feuilles comme ça quoi
+</Turn>
+<Turn speaker="spk4" startTime="3157.627" endTime="3164.009">
+<Sync time="3157.627"/>
+hm hm
+<Sync time="3158.284"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to78" startTime="3164.009" endTime="3211.431">
+<Turn speaker="spk4" startTime="3164.009" endTime="3168.879">
+<Sync time="3164.009"/>
+y a-t-il des choses
+<Sync time="3165.486"/>
+
+<Sync time="3165.801"/>
+qui vous agacent dans la façon de parler de votre femme ?
+</Turn>
+<Turn speaker="spk1" startTime="3168.879" endTime="3173.376">
+<Sync time="3168.879"/>
+
+<Sync time="3171.625"/>
+ah non
+<Sync time="3172.25"/>
+pas du tout
+<Sync time="3172.922"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3173.376" endTime="3175.336">
+<Sync time="3173.376"/>
+hm bon
+<Sync time="3173.829"/>
+
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3175.336" endTime="3176.311">
+<Sync time="3175.336"/>
+<Who nb="1"/>
+des fois elle a des 
+<Who nb="2"/>
+et
+</Turn>
+<Turn speaker="spk1" startTime="3176.311" endTime="3182.334">
+<Sync time="3176.311"/>
+des petites expressions comme ça
+<Sync time="3178.365"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="3180.278"/>
+
+<Sync time="3181.022"/>
+on en rit quoi
+<Sync time="3182.053"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3182.334" endTime="3188.907">
+<Sync time="3182.334"/>
+oui
+<Sync time="3182.803"/>
+
+<Sync time="3183.762"/>
+et vous arrive-t-il de le de la reprendre quand elle parle ?
+<Sync time="3187.248"/>
+
+<Sync time="3188.298"/>
+quelquefois ?
+</Turn>
+<Turn speaker="spk1" startTime="3188.907" endTime="3193.448">
+<Sync time="3188.907"/>
+
+<Sync time="3190.462"/>
+de temps en temps oui
+<Sync time="3191.384"/>
+
+<Sync time="3191.746"/>
+hein ?
+<Sync time="3192.09"/>
+
+<Sync time="3192.462"/>
+des fois tu
+</Turn>
+<Turn speaker="spk1 spk3" startTime="3193.448" endTime="3193.646">
+<Sync time="3193.448"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+quand je 
+</Turn>
+<Turn speaker="spk3" startTime="3193.646" endTime="3195.194">
+<Sync time="3193.646"/>
+te parle un peu trop sèchement
+</Turn>
+<Turn speaker="spk1" startTime="3195.194" endTime="3197.851">
+<Sync time="3195.194"/>
+
+<Sync time="3195.342"/>
+hein non non mais reprendre euh reprendre
+</Turn>
+<Turn speaker="spk1 spk3" startTime="3197.851" endTime="3199.093">
+<Sync time="3197.851"/>
+<Who nb="1"/>
+monsieur veut dire que 
+<Who nb="2"/>
+ah sur le langage
+</Turn>
+<Turn speaker="spk1" startTime="3199.093" endTime="3201.027">
+<Sync time="3199.093"/>
+tu t'es trompé de de mot par exemple
+</Turn>
+<Turn speaker="spk3" startTime="3201.027" endTime="3201.39">
+<Sync time="3201.027"/>
+oui
+<Sync time="3201.266"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3201.39" endTime="3201.915">
+<Sync time="3201.39"/>
+hm hm
+<Sync time="3201.781"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3201.915" endTime="3206.084">
+<Sync time="3201.915"/>
+ou tu
+<Sync time="3202.468"/>
+
+<Sync time="3203.136"/>
+mal orthographié quoi ou
+<Sync time="3204.739"/>
+
+<Sync time="3205.006"/>
+enfin mal parlé
+<Sync time="3206.008"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3206.084" endTime="3207.491">
+<Sync time="3206.084"/>
+hm hm
+<Sync time="3206.647"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3207.491" endTime="3208.898">
+<Sync time="3207.491"/>
+oh ça arrive pas souvent
+</Turn>
+<Turn speaker="spk3" startTime="3208.898" endTime="3209.375">
+<Sync time="3208.898"/>
+oh non
+</Turn>
+<Turn speaker="spk4" startTime="3209.375" endTime="3211.431">
+<Sync time="3209.375"/>
+pas souvent donc
+<Sync time="3210.067"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to79" startTime="3211.431" endTime="3224.493">
+<Turn speaker="spk4" startTime="3211.431" endTime="3216.322">
+<Sync time="3211.431"/>
+mais y a-t-il des choses qui agacent votre femme dans la façon dont vous parlez ?
+</Turn>
+<Turn speaker="spk3" startTime="3216.322" endTime="3220.069">
+<Sync time="3216.322"/>
+
+<Sync time="3218.657"/>
+oh non
+<Sync time="3219.282"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3220.069" endTime="3220.553">
+<Sync time="3220.069"/>
+non
+</Turn>
+<Turn speaker="spk4" startTime="3220.553" endTime="3224.493">
+<Sync time="3220.553"/>
+non
+<Sync time="3221.106"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to80" startTime="3224.493" endTime="3264.812">
+<Turn speaker="spk4" startTime="3224.493" endTime="3228.415">
+<Sync time="3224.493"/>
+et y a-t-il des choses qui vous agacent dans la façon de parler de vos enfants ?
+</Turn>
+<Turn speaker="spk1" startTime="3228.415" endTime="3235.073">
+<Sync time="3228.415"/>
+
+<Sync time="3231.281"/>
+non plus
+<Sync time="3231.906"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3235.073" endTime="3238.088">
+<Sync time="3235.073"/>
+vous arrive-t-il quelquefois de les reprendre ?
+</Turn>
+<Turn speaker="spk1" startTime="3238.088" endTime="3242.662">
+<Sync time="3238.088"/>
+
+<Sync time="3240.153"/>
+oh non parce que vous savez ils en savent autant que nous hein ?
+</Turn>
+<Turn speaker="spk1 spk4" startTime="3242.662" endTime="3243.549">
+<Sync time="3242.662"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk3" startTime="3243.549" endTime="3246.988">
+<Sync time="3243.549"/>
+sinon plus
+<Sync time="3244.837"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3246.988" endTime="3250.534">
+<Sync time="3246.988"/>
+y a-t-il des mots que vous interdisiez de prononcer à vos enfants ?
+</Turn>
+<Turn speaker="spk1" startTime="3250.534" endTime="3259.632">
+<Sync time="3250.534"/>
+
+<Sync time="3258.101"/>
+euh je vois pas non non
+</Turn>
+<Turn speaker="spk3" startTime="3259.632" endTime="3261.306">
+<Sync time="3259.632"/>
+non ils emploient
+<Sync time="3261.063"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3261.306" endTime="3263.309">
+<Sync time="3261.306"/>
+non non
+<Sync time="3261.899"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3263.309" endTime="3264.812">
+<Sync time="3263.309"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+<Sync time="3264.144"/>
+
+</Turn>
+</Section>
+<Section type="report" topic="to81" startTime="3264.812" endTime="3328.592">
+<Turn speaker="spk4" startTime="3264.812" endTime="3269.415">
+<Sync time="3264.812"/>
+et vos parents monsieur faisaient-ils attention à la façon dont vous parliez ?
+</Turn>
+<Turn speaker="spk1" startTime="3269.415" endTime="3273.121">
+<Sync time="3269.415"/>
+
+<Sync time="3270.302"/>
+ah oui
+<Sync time="3270.896"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3273.121" endTime="3275.2">
+<Sync time="3273.121"/>
+et qui vous reprenait le plus souvent ?
+</Turn>
+<Turn speaker="spk1" startTime="3275.2" endTime="3277.275">
+<Sync time="3275.2"/>
+ah le père toujours
+<Sync time="3276.321"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3277.275" endTime="3279.445">
+<Sync time="3277.275"/>
+et pour quel genre de choses surtout ?
+</Turn>
+<Turn speaker="spk1" startTime="3279.445" endTime="3288.96">
+<Sync time="3279.445"/>
+
+<Sync time="3284.119"/>
+oh euh la tendance aux mots vulgaires par exemple
+<Sync time="3287.963"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="3288.96" endTime="3292.594">
+<Sync time="3288.96"/>
+hm hm
+<Sync time="3289.554"/>
+
+<Sync time="3290.844"/>
+et prenait-il des sanctions ?
+</Turn>
+<Turn speaker="spk1" startTime="3292.594" endTime="3307.296">
+<Sync time="3292.594"/>
+
+<Sync time="3293.921"/>
+oh oui ouais oui oui hm
+<Sync time="3295.518"/>
+
+<Sync time="3295.685"/>
+enfin des sanc- euh ça dépend non oh non le
+<Sync time="3298.12"/>
+
+<Sync time="3298.261"/>
+oh ben non
+<Sync time="3299.1"/>
+
+<Sync time="3299.792"/>
+les sanctions non quand même pas
+<Sync time="3301.342"/>
+
+<Sync time="3303.56"/>
+non j'étais très sévèrement remontré quoi et puis c'est tout quoi
+</Turn>
+<Turn speaker="spk4" startTime="3307.296" endTime="3328.592">
+<Sync time="3307.296"/>
+hm hm
+<Sync time="3307.94"/>
+
+<Sync time="3317.98"/>
+bon
+<Sync time="3318.385"/>
+
+<Sync time="3318.505"/>
+merci monsieur
+</Turn>
+</Section>
+</Episode>
+</Trans>
